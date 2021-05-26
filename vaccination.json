@@ -1,7 +1,8 @@
 {
-	"update-date": "25/05/2021",
+	"update-date": "26/05/2021",
 	"cible": 30000000,
 	"population": 36910558,
-	"vaccine": 8011014,
-	"fullyVaccined": 4947483
+	"vaccine": 148964,
+	"fullyVaccined": 4996705
+
 }
