@@ -1,0 +1,15 @@
+{
+    "update_date": "06/10/2021",
+    "cases": 727,
+    "deaths": 18,
+    "recoveries": 1491,
+    "active_cases": 9344,
+    "dose_1_last_day": 51249,
+    "dose_2_last_day": 163834,
+    "dose_3_last_day": 40759,
+    "dose_1_total": 22953940,
+    "dose_2_total": 19758226,
+    "dose_3_total": 64077,
+    "cible": 30000000,
+    "population": 36910558
+}
