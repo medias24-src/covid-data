@@ -3,16 +3,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:29",
-                "Sunrise": "07:58",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:30",
+                "Sunrise": "07:59",
                 "Dhuhr": "13:17",
                 "Asr": "16:03",
                 "Maghrib": "18:27",
-                "Isha": "19:45"
+                "Isha": "19:44"
             }
         ]
     },
@@ -20,16 +20,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:26",
-                "Sunrise": "07:53",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:27",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:14",
                 "Asr": "16:00",
-                "Maghrib": "18:26",
-                "Isha": "19:42"
+                "Maghrib": "18:25",
+                "Isha": "19:41"
             }
         ]
     },
@@ -37,16 +37,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
-                "Sunrise": "07:54",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:15",
                 "Asr": "16:01",
-                "Maghrib": "18:27",
-                "Isha": "19:43"
+                "Maghrib": "18:26",
+                "Isha": "19:42"
             }
         ]
     },
@@ -54,15 +54,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:28",
-                "Sunrise": "07:54",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:16",
                 "Asr": "16:03",
-                "Maghrib": "18:29",
+                "Maghrib": "18:28",
                 "Isha": "19:44"
             }
         ]
@@ -71,14 +71,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:25",
-                "Sunrise": "07:49",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:26",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:14",
-                "Asr": "16:01",
+                "Asr": "16:00",
                 "Maghrib": "18:28",
                 "Isha": "19:42"
             }
@@ -88,15 +88,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:59",
-                "Dhuhr": "13:18",
-                "Asr": "16:05",
-                "Maghrib": "18:29",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "08:00",
+                "Dhuhr": "13:19",
+                "Asr": "16:04",
+                "Maghrib": "18:28",
                 "Isha": "19:46"
             }
         ]
@@ -105,16 +105,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:28",
-                "Sunrise": "07:57",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:29",
+                "Sunrise": "07:58",
                 "Dhuhr": "13:16",
-                "Asr": "16:02",
+                "Asr": "16:01",
                 "Maghrib": "18:26",
-                "Isha": "19:44"
+                "Isha": "19:43"
             }
         ]
     },
@@ -122,15 +122,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:25",
-                "Sunrise": "07:52",
+                "Sunrise": "07:53",
                 "Dhuhr": "13:13",
                 "Asr": "15:58",
-                "Maghrib": "18:24",
+                "Maghrib": "18:23",
                 "Isha": "19:40"
             }
         ]
@@ -139,15 +139,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
-                "Sunrise": "07:56",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:15",
                 "Asr": "16:00",
-                "Maghrib": "18:25",
+                "Maghrib": "18:24",
                 "Isha": "19:42"
             }
         ]
@@ -156,15 +156,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:26",
-                "Sunrise": "07:55",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:14",
                 "Asr": "15:59",
-                "Maghrib": "18:23",
+                "Maghrib": "18:22",
                 "Isha": "19:41"
             }
         ]
@@ -173,11 +173,11 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
                 "Sunrise": "07:57",
                 "Dhuhr": "13:15",
                 "Asr": "16:00",
@@ -190,14 +190,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:26",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:27",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:14",
-                "Asr": "15:58",
+                "Asr": "15:57",
                 "Maghrib": "18:22",
                 "Isha": "19:40"
             }
@@ -207,16 +207,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
                 "Sunrise": "07:58",
                 "Dhuhr": "13:15",
                 "Asr": "15:59",
-                "Maghrib": "18:23",
-                "Isha": "19:42"
+                "Maghrib": "18:22",
+                "Isha": "19:41"
             }
         ]
     },
@@ -224,16 +224,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:26",
-                "Sunrise": "07:56",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:27",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:13",
                 "Asr": "15:55",
                 "Maghrib": "18:20",
-                "Isha": "19:39"
+                "Isha": "19:38"
             }
         ]
     },
@@ -241,15 +241,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:53",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:11",
                 "Asr": "15:54",
-                "Maghrib": "18:20",
+                "Maghrib": "18:19",
                 "Isha": "19:37"
             }
         ]
@@ -258,16 +258,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
-                "Sunrise": "07:58",
-                "Dhuhr": "13:14",
-                "Asr": "15:58",
-                "Maghrib": "18:22",
-                "Isha": "19:41"
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
+                "Sunrise": "07:59",
+                "Dhuhr": "13:15",
+                "Asr": "15:57",
+                "Maghrib": "18:21",
+                "Isha": "19:40"
             }
         ]
     },
@@ -275,15 +275,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
-                "Sunrise": "07:58",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
+                "Sunrise": "07:59",
                 "Dhuhr": "13:14",
-                "Asr": "15:57",
-                "Maghrib": "18:21",
+                "Asr": "15:56",
+                "Maghrib": "18:20",
                 "Isha": "19:40"
             }
         ]
@@ -292,15 +292,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:24",
-                "Sunrise": "07:50",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:11",
                 "Asr": "15:54",
-                "Maghrib": "18:22",
+                "Maghrib": "18:21",
                 "Isha": "19:37"
             }
         ]
@@ -309,16 +309,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:11",
-                "Asr": "15:54",
-                "Maghrib": "18:18",
-                "Isha": "19:37"
+                "Asr": "15:53",
+                "Maghrib": "18:17",
+                "Isha": "19:36"
             }
         ]
     },
@@ -326,15 +326,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:11",
-                "Asr": "15:54",
-                "Maghrib": "18:18",
+                "Asr": "15:53",
+                "Maghrib": "18:17",
                 "Isha": "19:37"
             }
         ]
@@ -343,15 +343,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:26",
-                "Sunrise": "07:56",
-                "Dhuhr": "13:13",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:27",
+                "Sunrise": "07:57",
+                "Dhuhr": "13:14",
                 "Asr": "15:57",
-                "Maghrib": "18:22",
+                "Maghrib": "18:21",
                 "Isha": "19:40"
             }
         ]
@@ -360,16 +360,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:25",
-                "Sunrise": "07:56",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:26",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:12",
                 "Asr": "15:54",
-                "Maghrib": "18:19",
-                "Isha": "19:38"
+                "Maghrib": "18:18",
+                "Isha": "19:37"
             }
         ]
     },
@@ -377,16 +377,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:18",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:19",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:06",
-                "Asr": "15:49",
-                "Maghrib": "18:14",
-                "Isha": "19:32"
+                "Asr": "15:48",
+                "Maghrib": "18:13",
+                "Isha": "19:31"
             }
         ]
     },
@@ -394,16 +394,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:25",
-                "Sunrise": "07:54",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:11",
                 "Asr": "15:53",
                 "Maghrib": "18:19",
-                "Isha": "19:37"
+                "Isha": "19:36"
             }
         ]
     },
@@ -411,12 +411,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:25",
-                "Sunrise": "07:55",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:11",
                 "Asr": "15:53",
                 "Maghrib": "18:18",
@@ -428,16 +428,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
-                "Sunrise": "07:51",
-                "Dhuhr": "13:08",
-                "Asr": "15:52",
-                "Maghrib": "18:17",
-                "Isha": "19:35"
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
+                "Sunrise": "07:52",
+                "Dhuhr": "13:09",
+                "Asr": "15:51",
+                "Maghrib": "18:16",
+                "Isha": "19:34"
             }
         ]
     },
@@ -445,12 +445,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
-                "Sunrise": "07:54",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:10",
                 "Asr": "15:53",
                 "Maghrib": "18:17",
@@ -462,16 +462,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:22",
-                "Sunrise": "07:48",
-                "Dhuhr": "13:09",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:23",
+                "Sunrise": "07:49",
+                "Dhuhr": "13:10",
                 "Asr": "15:53",
-                "Maghrib": "18:21",
-                "Isha": "19:36"
+                "Maghrib": "18:20",
+                "Isha": "19:35"
             }
         ]
     },
@@ -479,16 +479,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:25",
-                "Sunrise": "07:52",
+                "Sunrise": "07:53",
                 "Dhuhr": "13:12",
                 "Asr": "15:56",
-                "Maghrib": "18:23",
-                "Isha": "19:39"
+                "Maghrib": "18:22",
+                "Isha": "19:38"
             }
         ]
     },
@@ -496,14 +496,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:17",
-                "Sunrise": "07:45",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:04",
-                "Asr": "15:49",
+                "Asr": "15:48",
                 "Maghrib": "18:14",
                 "Isha": "19:31"
             }
@@ -513,15 +513,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:10",
-                "Sunrise": "07:37",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:11",
+                "Sunrise": "07:38",
                 "Dhuhr": "12:58",
                 "Asr": "15:42",
-                "Maghrib": "18:09",
+                "Maghrib": "18:08",
                 "Isha": "19:24"
             }
         ]
@@ -530,16 +530,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:12",
-                "Sunrise": "07:41",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:13",
+                "Sunrise": "07:42",
                 "Dhuhr": "12:59",
                 "Asr": "15:43",
-                "Maghrib": "18:08",
-                "Isha": "19:26"
+                "Maghrib": "18:07",
+                "Isha": "19:25"
             }
         ]
     },
@@ -547,12 +547,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:05",
-                "Sunrise": "07:29",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:06",
+                "Sunrise": "07:30",
                 "Dhuhr": "12:55",
                 "Asr": "15:44",
                 "Maghrib": "18:11",
@@ -564,16 +564,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:08",
-                "Sunrise": "07:32",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:09",
+                "Sunrise": "07:33",
                 "Dhuhr": "12:58",
                 "Asr": "15:46",
                 "Maghrib": "18:13",
-                "Isha": "19:27"
+                "Isha": "19:26"
             }
         ]
     },
@@ -581,16 +581,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:15",
-                "Sunrise": "07:43",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:16",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:03",
-                "Asr": "15:49",
+                "Asr": "15:48",
                 "Maghrib": "18:14",
-                "Isha": "19:31"
+                "Isha": "19:30"
             }
         ]
     },
@@ -598,16 +598,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:10",
-                "Sunrise": "07:36",
-                "Dhuhr": "12:58",
-                "Asr": "15:44",
-                "Maghrib": "18:11",
-                "Isha": "19:26"
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:11",
+                "Sunrise": "07:37",
+                "Dhuhr": "12:59",
+                "Asr": "15:43",
+                "Maghrib": "18:10",
+                "Isha": "19:25"
             }
         ]
     },
@@ -615,12 +615,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:10",
-                "Sunrise": "07:34",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:11",
+                "Sunrise": "07:35",
                 "Dhuhr": "13:00",
                 "Asr": "15:49",
                 "Maghrib": "18:16",
@@ -632,16 +632,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:13",
-                "Sunrise": "07:39",
-                "Dhuhr": "13:01",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:14",
+                "Sunrise": "07:40",
+                "Dhuhr": "13:02",
                 "Asr": "15:46",
-                "Maghrib": "18:14",
-                "Isha": "19:29"
+                "Maghrib": "18:13",
+                "Isha": "19:28"
             }
         ]
     },
@@ -649,27 +649,10 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:14",
-                "Sunrise": "07:44",
-                "Dhuhr": "13:02",
-                "Asr": "15:45",
-                "Maghrib": "18:10",
-                "Isha": "19:28"
-            }
-        ]
-    },
-    "مليلية": {
-        "HijriMonth": "جمادى الأولى",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:15",
                 "Sunrise": "07:45",
                 "Dhuhr": "13:02",
@@ -679,18 +662,35 @@
             }
         ]
     },
+    "مليلية": {
+        "HijriMonth": "جمادى الأولى",
+        "PrayerTimes": [
+            {
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:15",
+                "Sunrise": "07:46",
+                "Dhuhr": "13:02",
+                "Asr": "15:44",
+                "Maghrib": "18:08",
+                "Isha": "19:28"
+            }
+        ]
+    },
     "دبدو": {
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:14",
-                "Sunrise": "07:39",
+                "Sunrise": "07:40",
                 "Dhuhr": "13:02",
-                "Asr": "15:48",
+                "Asr": "15:47",
                 "Maghrib": "18:15",
                 "Isha": "19:29"
             }
@@ -700,12 +700,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:14",
-                "Sunrise": "07:43",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:15",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:02",
                 "Asr": "15:45",
                 "Maghrib": "18:10",
@@ -717,16 +717,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:14",
-                "Sunrise": "07:44",
-                "Dhuhr": "13:01",
-                "Asr": "15:45",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:15",
+                "Sunrise": "07:45",
+                "Dhuhr": "13:02",
+                "Asr": "15:44",
                 "Maghrib": "18:09",
-                "Isha": "19:28"
+                "Isha": "19:27"
             }
         ]
     },
@@ -734,15 +734,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:15",
-                "Sunrise": "07:44",
+                "Sunrise": "07:45",
                 "Dhuhr": "13:02",
                 "Asr": "15:45",
-                "Maghrib": "18:10",
+                "Maghrib": "18:09",
                 "Isha": "19:28"
             }
         ]
@@ -751,16 +751,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:14",
-                "Sunrise": "07:37",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:15",
+                "Sunrise": "07:38",
                 "Dhuhr": "13:04",
                 "Asr": "15:52",
                 "Maghrib": "18:20",
-                "Isha": "19:33"
+                "Isha": "19:32"
             }
         ]
     },
@@ -768,14 +768,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:09",
-                "Sunrise": "07:32",
+                "Sunrise": "07:33",
                 "Dhuhr": "12:58",
-                "Asr": "15:46",
+                "Asr": "15:45",
                 "Maghrib": "18:13",
                 "Isha": "19:26"
             }
@@ -785,16 +785,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:12",
-                "Sunrise": "07:39",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:13",
+                "Sunrise": "07:40",
                 "Dhuhr": "13:00",
-                "Asr": "15:45",
-                "Maghrib": "18:11",
-                "Isha": "19:27"
+                "Asr": "15:44",
+                "Maghrib": "18:10",
+                "Isha": "19:26"
             }
         ]
     },
@@ -802,16 +802,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:10",
-                "Sunrise": "07:38",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:11",
+                "Sunrise": "07:39",
                 "Dhuhr": "12:58",
                 "Asr": "15:42",
-                "Maghrib": "18:08",
-                "Isha": "19:25"
+                "Maghrib": "18:07",
+                "Isha": "19:24"
             }
         ]
     },
@@ -819,12 +819,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:12",
-                "Sunrise": "07:42",
+                "Sunrise": "07:43",
                 "Dhuhr": "12:59",
                 "Asr": "15:42",
                 "Maghrib": "18:06",
@@ -836,16 +836,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:12",
-                "Sunrise": "07:43",
-                "Dhuhr": "12:59",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:13",
+                "Sunrise": "07:44",
+                "Dhuhr": "13:00",
                 "Asr": "15:43",
-                "Maghrib": "18:07",
-                "Isha": "19:26"
+                "Maghrib": "18:06",
+                "Isha": "19:25"
             }
         ]
     },
@@ -853,15 +853,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:12",
-                "Sunrise": "07:38",
-                "Dhuhr": "12:59",
-                "Asr": "15:44",
-                "Maghrib": "18:11",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:13",
+                "Sunrise": "07:39",
+                "Dhuhr": "13:00",
+                "Asr": "15:43",
+                "Maghrib": "18:10",
                 "Isha": "19:26"
             }
         ]
@@ -870,14 +870,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:11",
-                "Sunrise": "07:38",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:12",
+                "Sunrise": "07:39",
                 "Dhuhr": "12:59",
-                "Asr": "15:43",
+                "Asr": "15:42",
                 "Maghrib": "18:09",
                 "Isha": "19:25"
             }
@@ -887,16 +887,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:11",
-                "Sunrise": "07:40",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:12",
+                "Sunrise": "07:41",
                 "Dhuhr": "12:58",
                 "Asr": "15:42",
                 "Maghrib": "18:07",
-                "Isha": "19:25"
+                "Isha": "19:24"
             }
         ]
     },
@@ -904,15 +904,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:13",
-                "Sunrise": "07:41",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:14",
+                "Sunrise": "07:42",
                 "Dhuhr": "13:01",
-                "Asr": "15:45",
-                "Maghrib": "18:11",
+                "Asr": "15:44",
+                "Maghrib": "18:10",
                 "Isha": "19:27"
             }
         ]
@@ -921,13 +921,13 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:16",
-                "Sunrise": "07:44",
-                "Dhuhr": "13:03",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:17",
+                "Sunrise": "07:45",
+                "Dhuhr": "13:04",
                 "Asr": "15:47",
                 "Maghrib": "18:13",
                 "Isha": "19:30"
@@ -938,15 +938,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:14",
-                "Sunrise": "07:37",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:15",
+                "Sunrise": "07:38",
                 "Dhuhr": "13:04",
-                "Asr": "15:53",
-                "Maghrib": "18:21",
+                "Asr": "15:52",
+                "Maghrib": "18:20",
                 "Isha": "19:33"
             }
         ]
@@ -955,16 +955,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:12",
-                "Sunrise": "07:36",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:13",
+                "Sunrise": "07:37",
                 "Dhuhr": "13:02",
-                "Asr": "15:52",
+                "Asr": "15:51",
                 "Maghrib": "18:18",
-                "Isha": "19:32"
+                "Isha": "19:31"
             }
         ]
     },
@@ -972,15 +972,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:32",
-                "Sunrise": "08:00",
-                "Dhuhr": "13:20",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:33",
+                "Sunrise": "08:01",
+                "Dhuhr": "13:21",
                 "Asr": "16:07",
-                "Maghrib": "18:32",
+                "Maghrib": "18:31",
                 "Isha": "19:48"
             }
         ]
@@ -989,15 +989,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:31",
-                "Sunrise": "08:00",
-                "Dhuhr": "13:19",
-                "Asr": "16:06",
-                "Maghrib": "18:30",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:32",
+                "Sunrise": "08:01",
+                "Dhuhr": "13:20",
+                "Asr": "16:05",
+                "Maghrib": "18:29",
                 "Isha": "19:47"
             }
         ]
@@ -1006,15 +1006,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:57",
-                "Dhuhr": "13:18",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:58",
+                "Dhuhr": "13:19",
                 "Asr": "16:05",
-                "Maghrib": "18:30",
+                "Maghrib": "18:29",
                 "Isha": "19:46"
             }
         ]
@@ -1023,15 +1023,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:31",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:32",
                 "Sunrise": "07:58",
-                "Dhuhr": "13:20",
+                "Dhuhr": "13:21",
                 "Asr": "16:08",
-                "Maghrib": "18:34",
+                "Maghrib": "18:33",
                 "Isha": "19:49"
             }
         ]
@@ -1040,15 +1040,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:56",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:19",
                 "Asr": "16:06",
-                "Maghrib": "18:32",
+                "Maghrib": "18:31",
                 "Isha": "19:47"
             }
         ]
@@ -1057,16 +1057,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:29",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:30",
                 "Sunrise": "07:55",
                 "Dhuhr": "13:19",
                 "Asr": "16:07",
                 "Maghrib": "18:33",
-                "Isha": "19:48"
+                "Isha": "19:47"
             }
         ]
     },
@@ -1074,15 +1074,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:19",
                 "Asr": "16:06",
-                "Maghrib": "18:33",
+                "Maghrib": "18:32",
                 "Isha": "19:47"
             }
         ]
@@ -1091,12 +1091,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:31",
-                "Sunrise": "07:59",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:32",
+                "Sunrise": "08:00",
                 "Dhuhr": "13:20",
                 "Asr": "16:07",
                 "Maghrib": "18:32",
@@ -1108,12 +1108,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:35",
-                "Sunrise": "08:03",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:36",
+                "Sunrise": "08:04",
                 "Dhuhr": "13:24",
                 "Asr": "16:11",
                 "Maghrib": "18:35",
@@ -1125,16 +1125,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
-                "Sunrise": "08:02",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
+                "Sunrise": "08:03",
                 "Dhuhr": "13:23",
                 "Asr": "16:10",
-                "Maghrib": "18:35",
-                "Isha": "19:52"
+                "Maghrib": "18:34",
+                "Isha": "19:51"
             }
         ]
     },
@@ -1142,12 +1142,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
-                "Sunrise": "08:01",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
+                "Sunrise": "08:02",
                 "Dhuhr": "13:24",
                 "Asr": "16:12",
                 "Maghrib": "18:36",
@@ -1159,16 +1159,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:35",
-                "Sunrise": "08:02",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:36",
+                "Sunrise": "08:03",
                 "Dhuhr": "13:25",
                 "Asr": "16:13",
-                "Maghrib": "18:38",
-                "Isha": "19:54"
+                "Maghrib": "18:37",
+                "Isha": "19:53"
             }
         ]
     },
@@ -1176,15 +1176,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:13",
                 "Asr": "16:00",
-                "Maghrib": "18:28",
+                "Maghrib": "18:27",
                 "Isha": "19:41"
             }
         ]
@@ -1193,15 +1193,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:26",
-                "Sunrise": "07:51",
+                "Sunrise": "07:52",
                 "Dhuhr": "13:15",
                 "Asr": "16:02",
-                "Maghrib": "18:29",
+                "Maghrib": "18:28",
                 "Isha": "19:43"
             }
         ]
@@ -1210,11 +1210,11 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
                 "Sunrise": "07:45",
                 "Dhuhr": "13:14",
                 "Asr": "16:04",
@@ -1227,16 +1227,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:26",
-                "Sunrise": "07:49",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:15",
                 "Asr": "16:04",
-                "Maghrib": "18:32",
-                "Isha": "19:45"
+                "Maghrib": "18:31",
+                "Isha": "19:44"
             }
         ]
     },
@@ -1244,16 +1244,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:26",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:27",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:16",
                 "Asr": "16:06",
                 "Maghrib": "18:34",
-                "Isha": "19:46"
+                "Isha": "19:45"
             }
         ]
     },
@@ -1261,16 +1261,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
                 "Sunrise": "07:53",
                 "Dhuhr": "13:17",
                 "Asr": "16:05",
                 "Maghrib": "18:31",
-                "Isha": "19:46"
+                "Isha": "19:45"
             }
         ]
     },
@@ -1278,16 +1278,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:28",
-                "Sunrise": "07:49",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:18",
                 "Asr": "16:08",
                 "Maghrib": "18:36",
-                "Isha": "19:48"
+                "Isha": "19:47"
             }
         ]
     },
@@ -1295,14 +1295,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:14",
-                "Asr": "16:03",
+                "Asr": "16:02",
                 "Maghrib": "18:30",
                 "Isha": "19:43"
             }
@@ -1312,12 +1312,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:25",
-                "Sunrise": "07:51",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:26",
+                "Sunrise": "07:52",
                 "Dhuhr": "13:15",
                 "Asr": "16:03",
                 "Maghrib": "18:29",
@@ -1329,13 +1329,13 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:28",
-                "Sunrise": "07:53",
-                "Dhuhr": "13:17",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:29",
+                "Sunrise": "07:54",
+                "Dhuhr": "13:18",
                 "Asr": "16:05",
                 "Maghrib": "18:32",
                 "Isha": "19:46"
@@ -1346,16 +1346,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
                 "Sunrise": "07:52",
                 "Dhuhr": "13:16",
                 "Asr": "16:04",
-                "Maghrib": "18:31",
-                "Isha": "19:45"
+                "Maghrib": "18:30",
+                "Isha": "19:44"
             }
         ]
     },
@@ -1363,14 +1363,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:22",
-                "Sunrise": "07:49",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:10",
-                "Asr": "15:56",
+                "Asr": "15:55",
                 "Maghrib": "18:21",
                 "Isha": "19:37"
             }
@@ -1380,12 +1380,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
-                "Sunrise": "07:46",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
+                "Sunrise": "07:47",
                 "Dhuhr": "13:09",
                 "Asr": "15:55",
                 "Maghrib": "18:22",
@@ -1397,15 +1397,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:22",
-                "Sunrise": "07:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:23",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:11",
                 "Asr": "15:56",
-                "Maghrib": "18:22",
+                "Maghrib": "18:21",
                 "Isha": "19:38"
             }
         ]
@@ -1414,14 +1414,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:20",
-                "Sunrise": "07:42",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:21",
+                "Sunrise": "07:43",
                 "Dhuhr": "13:09",
-                "Asr": "15:56",
+                "Asr": "15:55",
                 "Maghrib": "18:25",
                 "Isha": "19:37"
             }
@@ -1431,14 +1431,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:17",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:18",
                 "Sunrise": "07:42",
                 "Dhuhr": "13:06",
-                "Asr": "15:54",
+                "Asr": "15:53",
                 "Maghrib": "18:20",
                 "Isha": "19:34"
             }
@@ -1448,15 +1448,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
-                "Sunrise": "07:43",
-                "Dhuhr": "13:07",
-                "Asr": "15:54",
-                "Maghrib": "18:22",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
+                "Sunrise": "07:44",
+                "Dhuhr": "13:08",
+                "Asr": "15:53",
+                "Maghrib": "18:21",
                 "Isha": "19:35"
             }
         ]
@@ -1465,16 +1465,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:20",
-                "Sunrise": "07:45",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:08",
                 "Asr": "15:54",
                 "Maghrib": "18:21",
-                "Isha": "19:36"
+                "Isha": "19:35"
             }
         ]
     },
@@ -1482,16 +1482,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
-                "Sunrise": "07:45",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:10",
                 "Asr": "15:56",
                 "Maghrib": "18:24",
-                "Isha": "19:38"
+                "Isha": "19:37"
             }
         ]
     },
@@ -1499,12 +1499,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:18",
-                "Sunrise": "07:44",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:19",
+                "Sunrise": "07:45",
                 "Dhuhr": "13:06",
                 "Asr": "15:51",
                 "Maghrib": "18:18",
@@ -1516,15 +1516,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:21",
-                "Sunrise": "07:47",
-                "Dhuhr": "13:08",
+                "Sunrise": "07:48",
+                "Dhuhr": "13:09",
                 "Asr": "15:53",
-                "Maghrib": "18:20",
+                "Maghrib": "18:19",
                 "Isha": "19:35"
             }
         ]
@@ -1533,15 +1533,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:18",
-                "Sunrise": "07:43",
-                "Dhuhr": "13:05",
-                "Asr": "15:50",
-                "Maghrib": "18:18",
+                "Sunrise": "07:44",
+                "Dhuhr": "13:06",
+                "Asr": "15:49",
+                "Maghrib": "18:17",
                 "Isha": "19:32"
             }
         ]
@@ -1550,16 +1550,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:17",
-                "Sunrise": "07:43",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:18",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:05",
                 "Asr": "15:49",
                 "Maghrib": "18:17",
-                "Isha": "19:32"
+                "Isha": "19:31"
             }
         ]
     },
@@ -1567,15 +1567,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:19",
-                "Sunrise": "07:45",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:06",
-                "Asr": "15:51",
-                "Maghrib": "18:18",
+                "Asr": "15:50",
+                "Maghrib": "18:17",
                 "Isha": "19:33"
             }
         ]
@@ -1584,13 +1584,13 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
-                "Sunrise": "07:46",
-                "Dhuhr": "13:07",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
+                "Sunrise": "07:47",
+                "Dhuhr": "13:08",
                 "Asr": "15:53",
                 "Maghrib": "18:19",
                 "Isha": "19:35"
@@ -1601,16 +1601,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:21",
-                "Sunrise": "07:49",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:09",
-                "Asr": "15:54",
-                "Maghrib": "18:19",
-                "Isha": "19:36"
+                "Asr": "15:53",
+                "Maghrib": "18:18",
+                "Isha": "19:35"
             }
         ]
     },
@@ -1618,16 +1618,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
-                "Sunrise": "07:51",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
+                "Sunrise": "07:52",
                 "Dhuhr": "13:11",
-                "Asr": "15:56",
-                "Maghrib": "18:21",
-                "Isha": "19:38"
+                "Asr": "15:55",
+                "Maghrib": "18:20",
+                "Isha": "19:37"
             }
         ]
     },
@@ -1635,15 +1635,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
                 "Sunrise": "07:46",
-                "Dhuhr": "13:08",
+                "Dhuhr": "13:09",
                 "Asr": "15:52",
-                "Maghrib": "18:21",
+                "Maghrib": "18:20",
                 "Isha": "19:35"
             }
         ]
@@ -1652,15 +1652,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
-                "Sunrise": "07:46",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
+                "Sunrise": "07:47",
                 "Dhuhr": "13:07",
                 "Asr": "15:52",
-                "Maghrib": "18:18",
+                "Maghrib": "18:17",
                 "Isha": "19:34"
             }
         ]
@@ -1669,16 +1669,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:12",
                 "Asr": "15:58",
                 "Maghrib": "18:24",
-                "Isha": "19:40"
+                "Isha": "19:39"
             }
         ]
     },
@@ -1686,12 +1686,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:22",
-                "Sunrise": "07:45",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:10",
                 "Asr": "15:57",
                 "Maghrib": "18:25",
@@ -1703,14 +1703,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
                 "Sunrise": "07:48",
-                "Dhuhr": "13:11",
-                "Asr": "15:58",
+                "Dhuhr": "13:12",
+                "Asr": "15:57",
                 "Maghrib": "18:25",
                 "Isha": "19:39"
             }
@@ -1720,14 +1720,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
-                "Sunrise": "07:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:12",
-                "Asr": "15:58",
+                "Asr": "15:57",
                 "Maghrib": "18:24",
                 "Isha": "19:39"
             }
@@ -1737,16 +1737,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:22",
-                "Sunrise": "07:46",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:23",
+                "Sunrise": "07:47",
                 "Dhuhr": "13:11",
-                "Asr": "15:58",
-                "Maghrib": "18:26",
-                "Isha": "19:39"
+                "Asr": "15:57",
+                "Maghrib": "18:25",
+                "Isha": "19:38"
             }
         ]
     },
@@ -1754,12 +1754,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:32",
-                "Sunrise": "07:56",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:22",
                 "Asr": "16:12",
                 "Maghrib": "18:38",
@@ -1771,15 +1771,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:29",
-                "Sunrise": "07:54",
-                "Dhuhr": "13:19",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:30",
+                "Sunrise": "07:55",
+                "Dhuhr": "13:20",
                 "Asr": "16:09",
-                "Maghrib": "18:35",
+                "Maghrib": "18:34",
                 "Isha": "19:49"
             }
         ]
@@ -1788,15 +1788,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:38",
-                "Sunrise": "08:05",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:39",
+                "Sunrise": "08:06",
                 "Dhuhr": "13:29",
                 "Asr": "16:19",
-                "Maghrib": "18:44",
+                "Maghrib": "18:43",
                 "Isha": "19:59"
             }
         ]
@@ -1805,12 +1805,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
-                "Sunrise": "07:59",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
+                "Sunrise": "08:00",
                 "Dhuhr": "13:25",
                 "Asr": "16:15",
                 "Maghrib": "18:41",
@@ -1822,15 +1822,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:32",
-                "Sunrise": "07:57",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:33",
+                "Sunrise": "07:58",
                 "Dhuhr": "13:22",
                 "Asr": "16:11",
-                "Maghrib": "18:37",
+                "Maghrib": "18:36",
                 "Isha": "19:51"
             }
         ]
@@ -1839,16 +1839,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:32",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:33",
                 "Sunrise": "07:57",
-                "Dhuhr": "13:21",
+                "Dhuhr": "13:22",
                 "Asr": "16:10",
-                "Maghrib": "18:37",
-                "Isha": "19:51"
+                "Maghrib": "18:36",
+                "Isha": "19:50"
             }
         ]
     },
@@ -1856,15 +1856,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:38",
-                "Sunrise": "08:02",
+                "Sunrise": "08:03",
                 "Dhuhr": "13:29",
                 "Asr": "16:20",
-                "Maghrib": "18:46",
+                "Maghrib": "18:45",
                 "Isha": "19:59"
             }
         ]
@@ -1873,12 +1873,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:37",
-                "Sunrise": "08:04",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:38",
+                "Sunrise": "08:05",
                 "Dhuhr": "13:27",
                 "Asr": "16:16",
                 "Maghrib": "18:40",
@@ -1890,16 +1890,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:37",
-                "Sunrise": "08:04",
+                "Sunrise": "08:05",
                 "Dhuhr": "13:26",
                 "Asr": "16:14",
                 "Maghrib": "18:38",
-                "Isha": "19:55"
+                "Isha": "19:54"
             }
         ]
     },
@@ -1907,15 +1907,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
                 "Sunrise": "08:00",
                 "Dhuhr": "13:24",
                 "Asr": "16:13",
-                "Maghrib": "18:39",
+                "Maghrib": "18:38",
                 "Isha": "19:53"
             }
         ]
@@ -1924,16 +1924,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:31",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:32",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:22",
                 "Asr": "16:12",
                 "Maghrib": "18:38",
-                "Isha": "19:52"
+                "Isha": "19:51"
             }
         ]
     },
@@ -1941,15 +1941,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:32",
-                "Sunrise": "07:56",
+                "Sunrise": "07:57",
                 "Dhuhr": "13:22",
-                "Asr": "16:13",
-                "Maghrib": "18:39",
+                "Asr": "16:12",
+                "Maghrib": "18:38",
                 "Isha": "19:52"
             }
         ]
@@ -1958,13 +1958,13 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:32",
-                "Sunrise": "07:57",
-                "Dhuhr": "13:22",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:33",
+                "Sunrise": "07:58",
+                "Dhuhr": "13:23",
                 "Asr": "16:12",
                 "Maghrib": "18:38",
                 "Isha": "19:52"
@@ -1975,15 +1975,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:37",
-                "Sunrise": "08:01",
+                "Sunrise": "08:02",
                 "Dhuhr": "13:28",
-                "Asr": "16:21",
-                "Maghrib": "18:46",
+                "Asr": "16:20",
+                "Maghrib": "18:45",
                 "Isha": "19:59"
             }
         ]
@@ -1992,15 +1992,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:34",
-                "Sunrise": "07:58",
+                "Sunrise": "07:59",
                 "Dhuhr": "13:25",
                 "Asr": "16:17",
-                "Maghrib": "18:43",
+                "Maghrib": "18:42",
                 "Isha": "19:56"
             }
         ]
@@ -2009,16 +2009,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:37",
-                "Sunrise": "08:00",
+                "Sunrise": "08:01",
                 "Dhuhr": "13:29",
                 "Asr": "16:22",
-                "Maghrib": "18:48",
-                "Isha": "20:01"
+                "Maghrib": "18:47",
+                "Isha": "20:00"
             }
         ]
     },
@@ -2026,14 +2026,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:32",
-                "Sunrise": "07:52",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:33",
+                "Sunrise": "07:53",
                 "Dhuhr": "13:24",
-                "Asr": "16:17",
+                "Asr": "16:16",
                 "Maghrib": "18:45",
                 "Isha": "19:55"
             }
@@ -2043,16 +2043,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:51",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:52",
                 "Dhuhr": "13:22",
-                "Asr": "16:14",
-                "Maghrib": "18:42",
-                "Isha": "19:53"
+                "Asr": "16:13",
+                "Maghrib": "18:41",
+                "Isha": "19:52"
             }
         ]
     },
@@ -2060,16 +2060,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:34",
-                "Sunrise": "07:54",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:26",
                 "Asr": "16:19",
                 "Maghrib": "18:47",
-                "Isha": "19:58"
+                "Isha": "19:57"
             }
         ]
     },
@@ -2077,16 +2077,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:30",
-                "Sunrise": "07:52",
+                "Sunrise": "07:53",
                 "Dhuhr": "13:22",
                 "Asr": "16:15",
-                "Maghrib": "18:42",
-                "Isha": "19:54"
+                "Maghrib": "18:41",
+                "Isha": "19:53"
             }
         ]
     },
@@ -2094,11 +2094,11 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
                 "Sunrise": "07:51",
                 "Dhuhr": "13:23",
                 "Asr": "16:17",
@@ -2111,13 +2111,13 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:33",
                 "Sunrise": "07:54",
-                "Dhuhr": "13:25",
+                "Dhuhr": "13:26",
                 "Asr": "16:20",
                 "Maghrib": "18:47",
                 "Isha": "19:58"
@@ -2128,16 +2128,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:36",
-                "Sunrise": "08:01",
+                "Sunrise": "08:02",
                 "Dhuhr": "13:27",
                 "Asr": "16:20",
-                "Maghrib": "18:45",
-                "Isha": "19:59"
+                "Maghrib": "18:44",
+                "Isha": "19:58"
             }
         ]
     },
@@ -2145,11 +2145,11 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:35",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:36",
                 "Sunrise": "08:00",
                 "Dhuhr": "13:27",
                 "Asr": "16:19",
@@ -2162,12 +2162,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:18",
-                "Sunrise": "07:41",
+                "Sunrise": "07:42",
                 "Dhuhr": "13:08",
                 "Asr": "15:57",
                 "Maghrib": "18:24",
@@ -2179,15 +2179,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:16",
-                "Sunrise": "07:39",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:17",
+                "Sunrise": "07:40",
                 "Dhuhr": "13:07",
                 "Asr": "15:58",
-                "Maghrib": "18:25",
+                "Maghrib": "18:24",
                 "Isha": "19:37"
             }
         ]
@@ -2196,15 +2196,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:16",
-                "Sunrise": "07:39",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:17",
+                "Sunrise": "07:40",
                 "Dhuhr": "13:07",
                 "Asr": "15:57",
-                "Maghrib": "18:25",
+                "Maghrib": "18:24",
                 "Isha": "19:37"
             }
         ]
@@ -2213,14 +2213,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:16",
-                "Sunrise": "07:42",
-                "Dhuhr": "13:04",
-                "Asr": "15:51",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:17",
+                "Sunrise": "07:43",
+                "Dhuhr": "13:05",
+                "Asr": "15:50",
                 "Maghrib": "18:17",
                 "Isha": "19:32"
             }
@@ -2230,11 +2230,45 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
+                "Sunrise": "07:43",
+                "Dhuhr": "13:10",
+                "Asr": "15:59",
+                "Maghrib": "18:26",
+                "Isha": "19:39"
+            }
+        ]
+    },
+    "إملشيل": {
+        "HijriMonth": "جمادى الأولى",
+        "PrayerTimes": [
+            {
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:23",
+                "Sunrise": "07:44",
+                "Dhuhr": "13:12",
+                "Asr": "16:01",
+                "Maghrib": "18:30",
+                "Isha": "19:41"
+            }
+        ]
+    },
+    "تنجداد": {
+        "HijriMonth": "جمادى الأولى",
+        "PrayerTimes": [
+            {
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
                 "Sunrise": "07:43",
                 "Dhuhr": "13:10",
                 "Asr": "16:00",
@@ -2243,53 +2277,19 @@
             }
         ]
     },
-    "إملشيل": {
-        "HijriMonth": "جمادى الأولى",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:22",
-                "Sunrise": "07:44",
-                "Dhuhr": "13:12",
-                "Asr": "16:02",
-                "Maghrib": "18:31",
-                "Isha": "19:42"
-            }
-        ]
-    },
-    "تنجداد": {
-        "HijriMonth": "جمادى الأولى",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
-                "Sunrise": "07:43",
-                "Dhuhr": "13:10",
-                "Asr": "16:00",
-                "Maghrib": "18:28",
-                "Isha": "19:40"
-            }
-        ]
-    },
     "الريش": {
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:18",
-                "Sunrise": "07:41",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:19",
+                "Sunrise": "07:42",
                 "Dhuhr": "13:08",
-                "Asr": "15:57",
-                "Maghrib": "18:25",
+                "Asr": "15:56",
+                "Maghrib": "18:24",
                 "Isha": "19:37"
             }
         ]
@@ -2298,16 +2298,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:19",
-                "Sunrise": "07:42",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:20",
+                "Sunrise": "07:43",
                 "Dhuhr": "13:09",
                 "Asr": "15:57",
                 "Maghrib": "18:25",
-                "Isha": "19:38"
+                "Isha": "19:37"
             }
         ]
     },
@@ -2315,16 +2315,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:22",
-                "Sunrise": "07:44",
+                "Sunrise": "07:45",
                 "Dhuhr": "13:13",
                 "Asr": "16:06",
-                "Maghrib": "18:33",
-                "Isha": "19:45"
+                "Maghrib": "18:32",
+                "Isha": "19:44"
             }
         ]
     },
@@ -2332,15 +2332,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:27",
                 "Sunrise": "07:49",
                 "Dhuhr": "13:18",
                 "Asr": "16:09",
-                "Maghrib": "18:37",
+                "Maghrib": "18:36",
                 "Isha": "19:48"
             }
         ]
@@ -2349,12 +2349,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
-                "Sunrise": "07:43",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:12",
                 "Asr": "16:02",
                 "Maghrib": "18:30",
@@ -2366,16 +2366,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:25",
-                "Sunrise": "07:47",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:26",
+                "Sunrise": "07:48",
                 "Dhuhr": "13:16",
                 "Asr": "16:07",
-                "Maghrib": "18:35",
-                "Isha": "19:47"
+                "Maghrib": "18:34",
+                "Isha": "19:46"
             }
         ]
     },
@@ -2383,16 +2383,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:24",
-                "Sunrise": "07:45",
-                "Dhuhr": "13:14",
+                "Sunrise": "07:46",
+                "Dhuhr": "13:15",
                 "Asr": "16:05",
                 "Maghrib": "18:33",
-                "Isha": "19:45"
+                "Isha": "19:44"
             }
         ]
     },
@@ -2400,16 +2400,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:24",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:25",
                 "Sunrise": "07:46",
                 "Dhuhr": "13:16",
-                "Asr": "16:08",
-                "Maghrib": "18:36",
-                "Isha": "19:47"
+                "Asr": "16:07",
+                "Maghrib": "18:35",
+                "Isha": "19:46"
             }
         ]
     },
@@ -2417,15 +2417,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
-                "Sunrise": "07:45",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:14",
-                "Asr": "16:05",
-                "Maghrib": "18:33",
+                "Asr": "16:04",
+                "Maghrib": "18:32",
                 "Isha": "19:44"
             }
         ]
@@ -2434,15 +2434,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:20",
-                "Sunrise": "07:43",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:11",
-                "Asr": "16:02",
-                "Maghrib": "18:29",
+                "Asr": "16:01",
+                "Maghrib": "18:28",
                 "Isha": "19:41"
             }
         ]
@@ -2451,15 +2451,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:20",
-                "Sunrise": "07:40",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:21",
+                "Sunrise": "07:41",
                 "Dhuhr": "13:11",
                 "Asr": "16:00",
-                "Maghrib": "18:30",
+                "Maghrib": "18:29",
                 "Isha": "19:40"
             }
         ]
@@ -2468,12 +2468,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:23",
-                "Sunrise": "07:44",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:24",
+                "Sunrise": "07:45",
                 "Dhuhr": "13:13",
                 "Asr": "16:03",
                 "Maghrib": "18:32",
@@ -2485,15 +2485,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:21",
-                "Sunrise": "07:45",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:22",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:12",
                 "Asr": "16:04",
-                "Maghrib": "18:30",
+                "Maghrib": "18:29",
                 "Isha": "19:43"
             }
         ]
@@ -2502,16 +2502,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:38",
-                "Sunrise": "08:01",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:39",
+                "Sunrise": "08:02",
                 "Dhuhr": "13:31",
-                "Asr": "16:25",
+                "Asr": "16:24",
                 "Maghrib": "18:50",
-                "Isha": "20:03"
+                "Isha": "20:02"
             }
         ]
     },
@@ -2519,16 +2519,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:37",
-                "Sunrise": "07:59",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:38",
+                "Sunrise": "08:00",
                 "Dhuhr": "13:30",
                 "Asr": "16:25",
                 "Maghrib": "18:51",
-                "Isha": "20:03"
+                "Isha": "20:02"
             }
         ]
     },
@@ -2536,16 +2536,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
-                "Sunrise": "07:57",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
+                "Sunrise": "07:58",
                 "Dhuhr": "13:28",
                 "Asr": "16:23",
                 "Maghrib": "18:48",
-                "Isha": "20:01"
+                "Isha": "20:00"
             }
         ]
     },
@@ -2553,16 +2553,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:33",
-                "Sunrise": "07:55",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:34",
+                "Sunrise": "07:56",
                 "Dhuhr": "13:27",
                 "Asr": "16:23",
                 "Maghrib": "18:49",
-                "Isha": "20:01"
+                "Isha": "20:00"
             }
         ]
     },
@@ -2570,12 +2570,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:41",
-                "Sunrise": "08:04",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:42",
+                "Sunrise": "08:05",
                 "Dhuhr": "13:34",
                 "Asr": "16:30",
                 "Maghrib": "18:55",
@@ -2587,12 +2587,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:36",
-                "Sunrise": "07:58",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:37",
+                "Sunrise": "07:59",
                 "Dhuhr": "13:29",
                 "Asr": "16:23",
                 "Maghrib": "18:49",
@@ -2604,12 +2604,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:32",
-                "Sunrise": "07:53",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:26",
                 "Asr": "16:23",
                 "Maghrib": "18:49",
@@ -2621,16 +2621,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:39",
-                "Sunrise": "08:01",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:40",
+                "Sunrise": "08:02",
                 "Dhuhr": "13:33",
                 "Asr": "16:29",
-                "Maghrib": "18:56",
-                "Isha": "20:07"
+                "Maghrib": "18:55",
+                "Isha": "20:06"
             }
         ]
     },
@@ -2638,12 +2638,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:48",
-                "Sunrise": "08:11",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:49",
+                "Sunrise": "08:12",
                 "Dhuhr": "13:43",
                 "Asr": "16:40",
                 "Maghrib": "19:05",
@@ -2655,12 +2655,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:42",
-                "Sunrise": "08:03",
+                "Sunrise": "08:04",
                 "Dhuhr": "13:37",
                 "Asr": "16:35",
                 "Maghrib": "19:00",
@@ -2672,16 +2672,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:52",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:53",
                 "Sunrise": "08:15",
                 "Dhuhr": "13:48",
                 "Asr": "16:47",
                 "Maghrib": "19:12",
-                "Isha": "20:24"
+                "Isha": "20:23"
             }
         ]
     },
@@ -2689,12 +2689,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:48",
-                "Sunrise": "08:11",
+                "Sunrise": "08:12",
                 "Dhuhr": "13:42",
                 "Asr": "16:38",
                 "Maghrib": "19:02",
@@ -2706,16 +2706,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:37",
                 "Sunrise": "07:56",
                 "Dhuhr": "13:32",
                 "Asr": "16:31",
                 "Maghrib": "18:59",
-                "Isha": "20:08"
+                "Isha": "20:07"
             }
         ]
     },
@@ -2723,15 +2723,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:46",
-                "Sunrise": "08:07",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:47",
+                "Sunrise": "08:08",
                 "Dhuhr": "13:41",
                 "Asr": "16:40",
-                "Maghrib": "19:06",
+                "Maghrib": "19:05",
                 "Isha": "20:16"
             }
         ]
@@ -2740,12 +2740,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:43",
-                "Sunrise": "08:03",
+                "Sunrise": "08:04",
                 "Dhuhr": "13:39",
                 "Asr": "16:40",
                 "Maghrib": "19:06",
@@ -2757,14 +2757,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:40",
-                "Sunrise": "08:01",
-                "Dhuhr": "13:35",
-                "Asr": "16:35",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:41",
+                "Sunrise": "08:02",
+                "Dhuhr": "13:36",
+                "Asr": "16:34",
                 "Maghrib": "19:00",
                 "Isha": "20:11"
             }
@@ -2774,16 +2774,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:44",
-                "Sunrise": "08:07",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:45",
+                "Sunrise": "08:08",
                 "Dhuhr": "13:38",
                 "Asr": "16:34",
-                "Maghrib": "19:00",
-                "Isha": "20:12"
+                "Maghrib": "18:59",
+                "Isha": "20:11"
             }
         ]
     },
@@ -2791,12 +2791,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:56",
-                "Sunrise": "08:16",
+                "Sunrise": "08:17",
                 "Dhuhr": "13:54",
                 "Asr": "16:56",
                 "Maghrib": "19:22",
@@ -2808,15 +2808,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:57",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:58",
                 "Sunrise": "08:17",
                 "Dhuhr": "13:58",
                 "Asr": "17:04",
-                "Maghrib": "19:31",
+                "Maghrib": "19:30",
                 "Isha": "20:39"
             }
         ]
@@ -2825,12 +2825,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:48",
-                "Sunrise": "08:07",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:49",
+                "Sunrise": "08:08",
                 "Dhuhr": "13:47",
                 "Asr": "16:51",
                 "Maghrib": "19:18",
@@ -2842,12 +2842,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:56",
-                "Sunrise": "08:14",
+                "Sunrise": "08:15",
                 "Dhuhr": "13:56",
                 "Asr": "17:01",
                 "Maghrib": "19:28",
@@ -2859,11 +2859,11 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:51",
                 "Sunrise": "08:10",
                 "Dhuhr": "13:48",
                 "Asr": "16:50",
@@ -2876,16 +2876,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:20",
-                "Sunrise": "07:47",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:21",
+                "Sunrise": "07:48",
                 "Dhuhr": "13:08",
-                "Asr": "15:54",
-                "Maghrib": "18:20",
-                "Isha": "19:36"
+                "Asr": "15:53",
+                "Maghrib": "18:19",
+                "Isha": "19:35"
             }
         ]
     },
@@ -2893,16 +2893,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:20",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:21",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:08",
-                "Asr": "15:54",
-                "Maghrib": "18:19",
-                "Isha": "19:36"
+                "Asr": "15:53",
+                "Maghrib": "18:18",
+                "Isha": "19:35"
             }
         ]
     },
@@ -2910,15 +2910,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:20",
-                "Sunrise": "07:49",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:21",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:08",
-                "Asr": "15:54",
-                "Maghrib": "18:18",
+                "Asr": "15:53",
+                "Maghrib": "18:17",
                 "Isha": "19:35"
             }
         ]
@@ -2927,16 +2927,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:34",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:35",
                 "Sunrise": "07:58",
                 "Dhuhr": "13:25",
                 "Asr": "16:16",
                 "Maghrib": "18:43",
-                "Isha": "19:56"
+                "Isha": "19:55"
             }
         ]
     },
@@ -2944,15 +2944,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:37",
-                "Sunrise": "08:00",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:38",
+                "Sunrise": "08:01",
                 "Dhuhr": "13:28",
-                "Asr": "16:19",
-                "Maghrib": "18:46",
+                "Asr": "16:18",
+                "Maghrib": "18:45",
                 "Isha": "19:58"
             }
         ]
@@ -2961,14 +2961,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:29",
-                "Sunrise": "07:54",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:30",
+                "Sunrise": "07:55",
                 "Dhuhr": "13:20",
-                "Asr": "16:11",
+                "Asr": "16:10",
                 "Maghrib": "18:36",
                 "Isha": "19:50"
             }
@@ -2978,12 +2978,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:21",
                 "Asr": "16:12",
                 "Maghrib": "18:41",
@@ -2995,12 +2995,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:22",
-                "Sunrise": "07:43",
+                "Sunrise": "07:44",
                 "Dhuhr": "13:12",
                 "Asr": "16:01",
                 "Maghrib": "18:30",
@@ -3012,15 +3012,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:22",
-                "Sunrise": "07:45",
+                "Sunrise": "07:46",
                 "Dhuhr": "13:12",
                 "Asr": "16:01",
-                "Maghrib": "18:29",
+                "Maghrib": "18:28",
                 "Isha": "19:41"
             }
         ]
@@ -3029,12 +3029,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:53",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:21",
                 "Asr": "16:12",
                 "Maghrib": "18:39",
@@ -3046,16 +3046,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:29",
-                "Sunrise": "07:57",
+                "Sunrise": "07:58",
                 "Dhuhr": "13:17",
                 "Asr": "16:03",
-                "Maghrib": "18:28",
-                "Isha": "19:45"
+                "Maghrib": "18:27",
+                "Isha": "19:44"
             }
         ]
     },
@@ -3063,14 +3063,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:53",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:21",
-                "Asr": "16:12",
+                "Asr": "16:11",
                 "Maghrib": "18:39",
                 "Isha": "19:51"
             }
@@ -3080,14 +3080,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:54",
-                "Dhuhr": "13:20",
-                "Asr": "16:11",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:55",
+                "Dhuhr": "13:21",
+                "Asr": "16:10",
                 "Maghrib": "18:37",
                 "Isha": "19:50"
             }
@@ -3097,14 +3097,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:31",
-                "Sunrise": "07:53",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:32",
+                "Sunrise": "07:54",
                 "Dhuhr": "13:22",
-                "Asr": "16:13",
+                "Asr": "16:12",
                 "Maghrib": "18:40",
                 "Isha": "19:52"
             }
@@ -3114,15 +3114,15 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:35",
-                "Sunrise": "07:58",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:36",
+                "Sunrise": "07:59",
                 "Dhuhr": "13:26",
                 "Asr": "16:17",
-                "Maghrib": "18:45",
+                "Maghrib": "18:44",
                 "Isha": "19:56"
             }
         ]
@@ -3131,14 +3131,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:50",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:51",
                 "Dhuhr": "13:21",
-                "Asr": "16:13",
+                "Asr": "16:12",
                 "Maghrib": "18:42",
                 "Isha": "19:52"
             }
@@ -3148,14 +3148,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:30",
-                "Sunrise": "07:51",
-                "Dhuhr": "13:20",
-                "Asr": "16:11",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:31",
+                "Sunrise": "07:52",
+                "Dhuhr": "13:21",
+                "Asr": "16:10",
                 "Maghrib": "18:39",
                 "Isha": "19:50"
             }
@@ -3165,16 +3165,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:27",
-                "Sunrise": "07:48",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:28",
+                "Sunrise": "07:49",
                 "Dhuhr": "13:19",
                 "Asr": "16:12",
                 "Maghrib": "18:40",
-                "Isha": "19:51"
+                "Isha": "19:50"
             }
         ]
     },
@@ -3182,16 +3182,16 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:26",
-                "Sunrise": "07:46",
+                "Sunrise": "07:47",
                 "Dhuhr": "13:17",
                 "Asr": "16:10",
                 "Maghrib": "18:38",
-                "Isha": "19:49"
+                "Isha": "19:48"
             }
         ]
     },
@@ -3199,14 +3199,14 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
-                "Fajr": "06:04",
-                "Sunrise": "07:28",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
+                "Fajr": "06:05",
+                "Sunrise": "07:29",
                 "Dhuhr": "12:54",
-                "Asr": "15:43",
+                "Asr": "15:42",
                 "Maghrib": "18:10",
                 "Isha": "19:23"
             }
@@ -3216,12 +3216,12 @@
         "HijriMonth": "جمادى الأولى",
         "PrayerTimes": [
             {
-                "day_ar": "الأحد",
-                "day_fr": "Dimanche",
-                "hijri_day": "24",
-                "gregorian_day": "16 Novembre 2025",
+                "day_ar": "الإثنين",
+                "day_fr": "Lundi",
+                "hijri_day": "25",
+                "gregorian_day": "17 Novembre 2025",
                 "Fajr": "06:26",
-                "Sunrise": "07:49",
+                "Sunrise": "07:50",
                 "Dhuhr": "13:16",
                 "Asr": "16:06",
                 "Maghrib": "18:33",
