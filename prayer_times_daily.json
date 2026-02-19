@@ -1,269 +1,286 @@
 {
     "الرباط": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:40",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:46",
-                "Asr": "15:49",
-                "Maghrib": "18:18",
-                "Isha": "19:33"
-            }
-        ]
-    },
-    "الخميسات": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "07:01",
-                "Dhuhr": "12:43",
-                "Asr": "15:46",
-                "Maghrib": "18:17",
-                "Isha": "19:30"
-            }
-        ]
-    },
-    "تيفلت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:44",
-                "Asr": "15:47",
-                "Maghrib": "18:17",
-                "Isha": "19:31"
-            }
-        ]
-    },
-    "الرماني": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:39",
-                "Sunrise": "07:03",
-                "Dhuhr": "12:45",
-                "Asr": "15:49",
-                "Maghrib": "18:19",
-                "Isha": "19:32"
-            }
-        ]
-    },
-    "والماس": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "06:58",
-                "Dhuhr": "12:43",
-                "Asr": "15:46",
-                "Maghrib": "18:18",
-                "Isha": "19:30"
-            }
-        ]
-    },
-    "بوزنيقة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:41",
-                "Sunrise": "07:07",
-                "Dhuhr": "12:48",
-                "Asr": "15:51",
+                "Sunrise": "07:05",
+                "Dhuhr": "12:46",
+                "Asr": "15:50",
                 "Maghrib": "18:19",
                 "Isha": "19:34"
             }
         ]
     },
-    "القنيطرة": {
-        "HijriMonth": "شعبان",
+    "الخميسات": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:39",
-                "Sunrise": "07:05",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "07:00",
+                "Dhuhr": "12:43",
+                "Asr": "15:47",
+                "Maghrib": "18:17",
+                "Isha": "19:31"
+            }
+        ]
+    },
+    "تيفلت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "07:01",
+                "Dhuhr": "12:44",
+                "Asr": "15:48",
+                "Maghrib": "18:18",
+                "Isha": "19:32"
+            }
+        ]
+    },
+    "الرماني": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:38",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:45",
+                "Asr": "15:49",
+                "Maghrib": "18:20",
+                "Isha": "19:33"
+            }
+        ]
+    },
+    "والماس": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "06:57",
+                "Dhuhr": "12:43",
+                "Asr": "15:47",
+                "Maghrib": "18:19",
+                "Isha": "19:30"
+            }
+        ]
+    },
+    "بوزنيقة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:40",
+                "Sunrise": "07:06",
+                "Dhuhr": "12:47",
+                "Asr": "15:51",
+                "Maghrib": "18:20",
+                "Isha": "19:35"
+            }
+        ]
+    },
+    "القنيطرة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:38",
+                "Sunrise": "07:04",
                 "Dhuhr": "12:45",
                 "Asr": "15:48",
+                "Maghrib": "18:18",
+                "Isha": "19:33"
+            }
+        ]
+    },
+    "سيدي قاسم": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:59",
+                "Dhuhr": "12:42",
+                "Asr": "15:45",
+                "Maghrib": "18:16",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "سيدي يحيى الغرب": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "07:03",
+                "Dhuhr": "12:44",
+                "Asr": "15:47",
                 "Maghrib": "18:17",
                 "Isha": "19:32"
             }
         ]
     },
-    "سيدي قاسم": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "07:00",
-                "Dhuhr": "12:42",
-                "Asr": "15:44",
-                "Maghrib": "18:15",
-                "Isha": "19:28"
-            }
-        ]
-    },
-    "سيدي يحيى الغرب": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:44",
-                "Asr": "15:47",
-                "Maghrib": "18:16",
-                "Isha": "19:31"
-            }
-        ]
-    },
     "سيدي سليمان": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
-                "Sunrise": "07:03",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "07:02",
                 "Dhuhr": "12:43",
-                "Asr": "15:45",
-                "Maghrib": "18:14",
-                "Isha": "19:29"
-            }
-        ]
-    },
-    "سوق أربعاء الغرب": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:44",
-                "Asr": "15:47",
-                "Maghrib": "18:15",
-                "Isha": "19:31"
-            }
-        ]
-    },
-    "عرباوة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
-                "Sunrise": "07:03",
-                "Dhuhr": "12:43",
-                "Asr": "15:44",
-                "Maghrib": "18:14",
-                "Isha": "19:29"
-            }
-        ]
-    },
-    "مولاي بوسلهام": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "07:05",
-                "Dhuhr": "12:44",
                 "Asr": "15:46",
                 "Maghrib": "18:15",
                 "Isha": "19:30"
             }
         ]
     },
-    "طنجة": {
-        "HijriMonth": "شعبان",
+    "سوق أربعاء الغرب": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
                 "Sunrise": "07:03",
+                "Dhuhr": "12:44",
+                "Asr": "15:47",
+                "Maghrib": "18:16",
+                "Isha": "19:32"
+            }
+        ]
+    },
+    "عرباوة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:43",
+                "Asr": "15:45",
+                "Maghrib": "18:15",
+                "Isha": "19:30"
+            }
+        ]
+    },
+    "مولاي بوسلهام": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "07:04",
+                "Dhuhr": "12:44",
+                "Asr": "15:46",
+                "Maghrib": "18:15",
+                "Isha": "19:31"
+            }
+        ]
+    },
+    "طنجة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "07:02",
                 "Dhuhr": "12:42",
                 "Asr": "15:43",
+                "Maghrib": "18:14",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "تطوان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:59",
+                "Dhuhr": "12:40",
+                "Asr": "15:42",
                 "Maghrib": "18:13",
                 "Isha": "19:28"
             }
         ]
     },
-    "تطوان": {
-        "HijriMonth": "شعبان",
+    "العرائش": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "07:00",
-                "Dhuhr": "12:40",
-                "Asr": "15:41",
-                "Maghrib": "18:12",
-                "Isha": "19:27"
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "07:04",
+                "Dhuhr": "12:43",
+                "Asr": "15:45",
+                "Maghrib": "18:15",
+                "Isha": "19:31"
             }
         ]
     },
-    "العرائش": {
-        "HijriMonth": "شعبان",
+    "أصيلة": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "07:05",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "07:03",
                 "Dhuhr": "12:43",
                 "Asr": "15:45",
                 "Maghrib": "18:14",
@@ -271,1682 +288,1665 @@
             }
         ]
     },
-    "أصيلة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:43",
-                "Asr": "15:44",
-                "Maghrib": "18:13",
-                "Isha": "19:29"
-            }
-        ]
-    },
     "شفشاون": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:57",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:56",
                 "Dhuhr": "12:40",
-                "Asr": "15:41",
-                "Maghrib": "18:13",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "مرتيل": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:40",
-                "Asr": "15:41",
-                "Maghrib": "18:10",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "المضيق": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:40",
-                "Asr": "15:41",
-                "Maghrib": "18:10",
+                "Asr": "15:42",
+                "Maghrib": "18:14",
                 "Isha": "19:27"
             }
         ]
     },
-    "القصر الكبير": {
-        "HijriMonth": "شعبان",
+    "مرتيل": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
-                "Sunrise": "07:03",
-                "Dhuhr": "12:43",
-                "Asr": "15:44",
-                "Maghrib": "18:13",
-                "Isha": "19:29"
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "07:01",
+                "Dhuhr": "12:40",
+                "Asr": "15:41",
+                "Maghrib": "18:11",
+                "Isha": "19:27"
             }
         ]
     },
-    "القصر الصغير": {
-        "HijriMonth": "شعبان",
+    "المضيق": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "07:03",
-                "Dhuhr": "12:41",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "07:01",
+                "Dhuhr": "12:40",
                 "Asr": "15:42",
                 "Maghrib": "18:11",
                 "Isha": "19:27"
             }
         ]
     },
-    "الحسيمة": {
-        "HijriMonth": "شعبان",
+    "القصر الكبير": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:28",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:42",
+                "Asr": "15:45",
+                "Maghrib": "18:14",
+                "Isha": "19:30"
+            }
+        ]
+    },
+    "القصر الصغير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:41",
+                "Asr": "15:42",
+                "Maghrib": "18:12",
+                "Isha": "19:28"
+            }
+        ]
+    },
+    "الحسيمة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:27",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:35",
                 "Asr": "15:36",
-                "Maghrib": "18:05",
-                "Isha": "19:21"
+                "Maghrib": "18:06",
+                "Isha": "19:22"
             }
         ]
     },
     "سبتة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "07:00",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:59",
                 "Dhuhr": "12:40",
                 "Asr": "15:41",
-                "Maghrib": "18:11",
+                "Maghrib": "18:12",
                 "Isha": "19:27"
             }
         ]
     },
     "الفنيدق": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "07:01",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "07:00",
                 "Dhuhr": "12:40",
                 "Asr": "15:41",
-                "Maghrib": "18:11",
-                "Isha": "19:27"
-            }
-        ]
-    },
-    "الجبهة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:58",
-                "Dhuhr": "12:38",
-                "Asr": "15:39",
-                "Maghrib": "18:09",
-                "Isha": "19:24"
-            }
-        ]
-    },
-    "واد لاو": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "07:01",
-                "Dhuhr": "12:39",
-                "Asr": "15:40",
-                "Maghrib": "18:09",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "باب برد": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:32",
-                "Sunrise": "06:55",
-                "Dhuhr": "12:38",
-                "Asr": "15:40",
                 "Maghrib": "18:12",
-                "Isha": "19:25"
-            }
-        ]
-    },
-    "وزان": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:59",
-                "Dhuhr": "12:41",
-                "Asr": "15:43",
-                "Maghrib": "18:14",
                 "Isha": "19:28"
             }
         ]
     },
-    "بوسكور": {
-        "HijriMonth": "شعبان",
+    "الجبهة": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:27",
-                "Sunrise": "06:52",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:57",
+                "Dhuhr": "12:37",
+                "Asr": "15:39",
+                "Maghrib": "18:10",
+                "Isha": "19:25"
+            }
+        ]
+    },
+    "واد لاو": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "07:00",
+                "Dhuhr": "12:39",
+                "Asr": "15:41",
+                "Maghrib": "18:10",
+                "Isha": "19:27"
+            }
+        ]
+    },
+    "باب برد": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:31",
+                "Sunrise": "06:54",
+                "Dhuhr": "12:38",
+                "Asr": "15:41",
+                "Maghrib": "18:13",
+                "Isha": "19:26"
+            }
+        ]
+    },
+    "وزان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:58",
+                "Dhuhr": "12:41",
+                "Asr": "15:44",
+                "Maghrib": "18:15",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "بوسكور": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:26",
+                "Sunrise": "06:51",
                 "Dhuhr": "12:33",
-                "Asr": "15:35",
-                "Maghrib": "18:05",
-                "Isha": "19:20"
+                "Asr": "15:36",
+                "Maghrib": "18:06",
+                "Isha": "19:21"
             }
         ]
     },
     "وجدة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:20",
-                "Sunrise": "06:45",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:19",
+                "Sunrise": "06:43",
                 "Dhuhr": "12:27",
                 "Asr": "15:29",
-                "Maghrib": "18:00",
-                "Isha": "19:13"
+                "Maghrib": "18:01",
+                "Isha": "19:14"
             }
         ]
     },
     "بركان": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
-                "Sunrise": "06:49",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:21",
+                "Sunrise": "06:47",
                 "Dhuhr": "12:28",
-                "Asr": "15:30",
-                "Maghrib": "17:59",
-                "Isha": "19:15"
+                "Asr": "15:31",
+                "Maghrib": "18:00",
+                "Isha": "19:16"
             }
         ]
     },
     "فكيك": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:17",
-                "Sunrise": "06:39",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:16",
+                "Sunrise": "06:38",
                 "Dhuhr": "12:24",
                 "Asr": "15:29",
-                "Maghrib": "18:00",
-                "Isha": "19:11"
+                "Maghrib": "18:01",
+                "Isha": "19:12"
             }
         ]
     },
     "بوعرفة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:20",
-                "Sunrise": "06:42",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:19",
+                "Sunrise": "06:41",
                 "Dhuhr": "12:27",
-                "Asr": "15:31",
+                "Asr": "15:32",
                 "Maghrib": "18:03",
                 "Isha": "19:14"
             }
         ]
     },
     "كرسيف": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:26",
-                "Sunrise": "06:51",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:25",
+                "Sunrise": "06:50",
                 "Dhuhr": "12:32",
                 "Asr": "15:35",
-                "Maghrib": "18:05",
-                "Isha": "19:19"
+                "Maghrib": "18:06",
+                "Isha": "19:20"
             }
         ]
     },
     "جرادة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:21",
-                "Sunrise": "06:44",
-                "Dhuhr": "12:28",
-                "Asr": "15:30",
-                "Maghrib": "18:02",
-                "Isha": "19:14"
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:20",
+                "Sunrise": "06:43",
+                "Dhuhr": "12:27",
+                "Asr": "15:31",
+                "Maghrib": "18:03",
+                "Isha": "19:15"
             }
         ]
     },
     "عين الشعير": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
-                "Sunrise": "06:44",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:21",
+                "Sunrise": "06:43",
                 "Dhuhr": "12:29",
                 "Asr": "15:34",
-                "Maghrib": "18:05",
-                "Isha": "19:16"
+                "Maghrib": "18:06",
+                "Isha": "19:17"
             }
         ]
     },
     "تاوريرت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:24",
-                "Sunrise": "06:47",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:23",
+                "Sunrise": "06:46",
                 "Dhuhr": "12:30",
                 "Asr": "15:33",
-                "Maghrib": "18:04",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "الناظور": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:24",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:31",
-                "Asr": "15:32",
-                "Maghrib": "18:01",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "مليلية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:25",
-                "Sunrise": "06:52",
-                "Dhuhr": "12:31",
-                "Asr": "15:32",
-                "Maghrib": "18:01",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "دبدو": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:25",
-                "Sunrise": "06:47",
-                "Dhuhr": "12:31",
-                "Asr": "15:34",
-                "Maghrib": "18:06",
+                "Maghrib": "18:05",
                 "Isha": "19:18"
             }
         ]
     },
-    "سلوان": {
-        "HijriMonth": "شعبان",
+    "الناظور": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:24",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:31",
-                "Asr": "15:32",
-                "Maghrib": "18:02",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "بني أنصار": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:24",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:31",
-                "Asr": "15:32",
-                "Maghrib": "18:01",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "فرخانة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:25",
-                "Sunrise": "06:52",
-                "Dhuhr": "12:31",
-                "Asr": "15:32",
-                "Maghrib": "18:01",
-                "Isha": "19:17"
-            }
-        ]
-    },
-    "تالسينت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:26",
-                "Sunrise": "06:46",
-                "Dhuhr": "12:33",
-                "Asr": "15:37",
-                "Maghrib": "18:09",
-                "Isha": "19:20"
-            }
-        ]
-    },
-    "تندرارة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:20",
-                "Sunrise": "06:41",
-                "Dhuhr": "12:27",
-                "Asr": "15:31",
-                "Maghrib": "18:03",
-                "Isha": "19:14"
-            }
-        ]
-    },
-    "العيون الشرقية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:23",
-                "Sunrise": "06:47",
-                "Dhuhr": "12:29",
-                "Asr": "15:31",
-                "Maghrib": "18:02",
-                "Isha": "19:15"
-            }
-        ]
-    },
-    "بني ادرار": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:21",
-                "Sunrise": "06:46",
-                "Dhuhr": "12:27",
-                "Asr": "15:29",
-                "Maghrib": "17:59",
-                "Isha": "19:13"
-            }
-        ]
-    },
-    "السعيدية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
-                "Sunrise": "06:49",
-                "Dhuhr": "12:28",
-                "Asr": "15:29",
-                "Maghrib": "17:58",
-                "Isha": "19:14"
-            }
-        ]
-    },
-    "رأس الماء": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
                 "Sunrise": "06:50",
-                "Dhuhr": "12:29",
-                "Asr": "15:30",
-                "Maghrib": "17:59",
-                "Isha": "19:15"
-            }
-        ]
-    },
-    "تافوغالت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
-                "Sunrise": "06:46",
-                "Dhuhr": "12:28",
-                "Asr": "15:30",
+                "Dhuhr": "12:31",
+                "Asr": "15:33",
                 "Maghrib": "18:02",
-                "Isha": "19:15"
+                "Isha": "19:18"
             }
         ]
     },
-    "فزوان": {
-        "HijriMonth": "شعبان",
+    "مليلية": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:22",
-                "Sunrise": "06:46",
-                "Dhuhr": "12:28",
-                "Asr": "15:29",
-                "Maghrib": "18:01",
-                "Isha": "19:14"
-            }
-        ]
-    },
-    "أحفير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:21",
-                "Sunrise": "06:47",
-                "Dhuhr": "12:27",
-                "Asr": "15:29",
-                "Maghrib": "17:59",
-                "Isha": "19:14"
-            }
-        ]
-    },
-    "زايو": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:24",
-                "Sunrise": "06:48",
-                "Dhuhr": "12:30",
-                "Asr": "15:31",
-                "Maghrib": "18:02",
-                "Isha": "19:16"
-            }
-        ]
-    },
-    "دريوش": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:26",
                 "Sunrise": "06:51",
-                "Dhuhr": "12:32",
-                "Asr": "15:34",
-                "Maghrib": "18:05",
-                "Isha": "19:19"
+                "Dhuhr": "12:31",
+                "Asr": "15:33",
+                "Maghrib": "18:02",
+                "Isha": "19:18"
             }
         ]
     },
-    "بني تجيت": {
-        "HijriMonth": "شعبان",
+    "دبدو": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:26",
-                "Sunrise": "06:47",
-                "Dhuhr": "12:33",
-                "Asr": "15:37",
-                "Maghrib": "18:10",
-                "Isha": "19:20"
-            }
-        ]
-    },
-    "بوعنان": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:25",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:24",
                 "Sunrise": "06:46",
                 "Dhuhr": "12:31",
-                "Asr": "15:36",
+                "Asr": "15:34",
                 "Maghrib": "18:07",
                 "Isha": "19:18"
             }
         ]
     },
-    "الدار البيضاء": {
-        "HijriMonth": "شعبان",
+    "سلوان": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:08",
-                "Dhuhr": "12:50",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:23",
+                "Sunrise": "06:49",
+                "Dhuhr": "12:31",
+                "Asr": "15:33",
+                "Maghrib": "18:03",
+                "Isha": "19:18"
+            }
+        ]
+    },
+    "بني أنصار": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:23",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:30",
+                "Asr": "15:32",
+                "Maghrib": "18:02",
+                "Isha": "19:18"
+            }
+        ]
+    },
+    "فرخانة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:24",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:31",
+                "Asr": "15:33",
+                "Maghrib": "18:02",
+                "Isha": "19:18"
+            }
+        ]
+    },
+    "تالسينت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:25",
+                "Sunrise": "06:45",
+                "Dhuhr": "12:33",
+                "Asr": "15:38",
+                "Maghrib": "18:10",
+                "Isha": "19:20"
+            }
+        ]
+    },
+    "تندرارة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:20",
+                "Sunrise": "06:40",
+                "Dhuhr": "12:27",
+                "Asr": "15:31",
+                "Maghrib": "18:04",
+                "Isha": "19:15"
+            }
+        ]
+    },
+    "العيون الشرقية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:22",
+                "Sunrise": "06:46",
+                "Dhuhr": "12:29",
+                "Asr": "15:32",
+                "Maghrib": "18:03",
+                "Isha": "19:16"
+            }
+        ]
+    },
+    "بني ادرار": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:20",
+                "Sunrise": "06:44",
+                "Dhuhr": "12:27",
+                "Asr": "15:29",
+                "Maghrib": "18:00",
+                "Isha": "19:14"
+            }
+        ]
+    },
+    "السعيدية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:21",
+                "Sunrise": "06:48",
+                "Dhuhr": "12:28",
+                "Asr": "15:30",
+                "Maghrib": "17:59",
+                "Isha": "19:15"
+            }
+        ]
+    },
+    "رأس الماء": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:21",
+                "Sunrise": "06:49",
+                "Dhuhr": "12:28",
+                "Asr": "15:31",
+                "Maghrib": "18:00",
+                "Isha": "19:16"
+            }
+        ]
+    },
+    "تافوغالت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:21",
+                "Sunrise": "06:45",
+                "Dhuhr": "12:28",
+                "Asr": "15:31",
+                "Maghrib": "18:03",
+                "Isha": "19:16"
+            }
+        ]
+    },
+    "فزوان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:20",
+                "Sunrise": "06:45",
+                "Dhuhr": "12:28",
+                "Asr": "15:30",
+                "Maghrib": "18:02",
+                "Isha": "19:15"
+            }
+        ]
+    },
+    "أحفير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:20",
+                "Sunrise": "06:46",
+                "Dhuhr": "12:27",
+                "Asr": "15:29",
+                "Maghrib": "18:00",
+                "Isha": "19:15"
+            }
+        ]
+    },
+    "زايو": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:23",
+                "Sunrise": "06:47",
+                "Dhuhr": "12:30",
+                "Asr": "15:32",
+                "Maghrib": "18:03",
+                "Isha": "19:17"
+            }
+        ]
+    },
+    "دريوش": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:25",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:32",
+                "Asr": "15:35",
+                "Maghrib": "18:06",
+                "Isha": "19:20"
+            }
+        ]
+    },
+    "بني تجيت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:25",
+                "Sunrise": "06:46",
+                "Dhuhr": "12:33",
+                "Asr": "15:38",
+                "Maghrib": "18:11",
+                "Isha": "19:21"
+            }
+        ]
+    },
+    "بوعنان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:24",
+                "Sunrise": "06:45",
+                "Dhuhr": "12:31",
+                "Asr": "15:37",
+                "Maghrib": "18:08",
+                "Isha": "19:19"
+            }
+        ]
+    },
+    "الدار البيضاء": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:07",
+                "Dhuhr": "12:49",
                 "Asr": "15:53",
-                "Maghrib": "18:22",
-                "Isha": "19:36"
+                "Maghrib": "18:23",
+                "Isha": "19:37"
             }
         ]
     },
     "المحمدية": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:42",
-                "Sunrise": "07:08",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:41",
+                "Sunrise": "07:07",
                 "Dhuhr": "12:48",
                 "Asr": "15:52",
-                "Maghrib": "18:20",
-                "Isha": "19:35"
-            }
-        ]
-    },
-    "بن سليمان": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:41",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:47",
-                "Asr": "15:51",
-                "Maghrib": "18:20",
-                "Isha": "19:34"
-            }
-        ]
-    },
-    "سطات": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:07",
-                "Dhuhr": "12:49",
-                "Asr": "15:53",
-                "Maghrib": "18:24",
+                "Maghrib": "18:21",
                 "Isha": "19:36"
             }
         ]
     },
-    "الكارة": {
-        "HijriMonth": "شعبان",
+    "بن سليمان": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:41",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:40",
                 "Sunrise": "07:05",
-                "Dhuhr": "12:48",
+                "Dhuhr": "12:47",
                 "Asr": "15:51",
-                "Maghrib": "18:22",
+                "Maghrib": "18:21",
+                "Isha": "19:35"
+            }
+        ]
+    },
+    "سطات": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:06",
+                "Dhuhr": "12:49",
+                "Asr": "15:54",
+                "Maghrib": "18:24",
+                "Isha": "19:37"
+            }
+        ]
+    },
+    "الكارة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:40",
+                "Sunrise": "07:04",
+                "Dhuhr": "12:48",
+                "Asr": "15:52",
+                "Maghrib": "18:23",
                 "Isha": "19:35"
             }
         ]
     },
     "البروج": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:41",
-                "Sunrise": "07:04",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:40",
+                "Sunrise": "07:03",
                 "Dhuhr": "12:48",
-                "Asr": "15:52",
+                "Asr": "15:53",
                 "Maghrib": "18:23",
                 "Isha": "19:35"
             }
         ]
     },
     "ابن أحمد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:41",
-                "Sunrise": "07:04",
+                "Sunrise": "07:03",
                 "Dhuhr": "12:48",
                 "Asr": "15:52",
                 "Maghrib": "18:23",
-                "Isha": "19:35"
-            }
-        ]
-    },
-    "برشيد": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:07",
-                "Dhuhr": "12:49",
-                "Asr": "15:53",
-                "Maghrib": "18:22",
                 "Isha": "19:36"
             }
         ]
     },
-    "الجديدة": {
-        "HijriMonth": "شعبان",
+    "برشيد": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:47",
-                "Sunrise": "07:12",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:06",
+                "Dhuhr": "12:49",
+                "Asr": "15:53",
+                "Maghrib": "18:23",
+                "Isha": "19:37"
+            }
+        ]
+    },
+    "الجديدة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:11",
                 "Dhuhr": "12:53",
                 "Asr": "15:57",
-                "Maghrib": "18:25",
-                "Isha": "19:40"
+                "Maghrib": "18:26",
+                "Isha": "19:41"
             }
         ]
     },
     "أزمور": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:46",
-                "Sunrise": "07:11",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:45",
+                "Sunrise": "07:10",
                 "Dhuhr": "12:52",
                 "Asr": "15:56",
-                "Maghrib": "18:25",
-                "Isha": "19:39"
-            }
-        ]
-    },
-    "سيدي بنور": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:46",
-                "Sunrise": "07:10",
-                "Dhuhr": "12:53",
-                "Asr": "15:57",
                 "Maghrib": "18:26",
                 "Isha": "19:40"
             }
         ]
     },
-    "خميس الزمامرة": {
-        "HijriMonth": "شعبان",
+    "سيدي بنور": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:47",
-                "Sunrise": "07:11",
-                "Dhuhr": "12:54",
-                "Asr": "15:58",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:45",
+                "Sunrise": "07:09",
+                "Dhuhr": "12:53",
+                "Asr": "15:57",
                 "Maghrib": "18:27",
+                "Isha": "19:40"
+            }
+        ]
+    },
+    "خميس الزمامرة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:10",
+                "Dhuhr": "12:54",
+                "Asr": "15:59",
+                "Maghrib": "18:28",
                 "Isha": "19:41"
             }
         ]
     },
     "خنيفرة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:57",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:56",
                 "Dhuhr": "12:42",
                 "Asr": "15:46",
-                "Maghrib": "18:17",
+                "Maghrib": "18:18",
                 "Isha": "19:29"
             }
         ]
     },
     "مولاي بوعزة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "07:00",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "06:59",
                 "Dhuhr": "12:44",
-                "Asr": "15:47",
-                "Maghrib": "18:19",
+                "Asr": "15:48",
+                "Maghrib": "18:20",
                 "Isha": "19:31"
             }
         ]
     },
     "زاوية أحنصال": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:43",
                 "Asr": "15:49",
-                "Maghrib": "18:22",
+                "Maghrib": "18:23",
                 "Isha": "19:31"
             }
         ]
     },
     "بني ملال": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "06:59",
-                "Dhuhr": "12:44",
-                "Asr": "15:49",
-                "Maghrib": "18:21",
-                "Isha": "19:31"
-            }
-        ]
-    },
-    "أزيلال": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:39",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
                 "Sunrise": "06:58",
-                "Dhuhr": "12:45",
+                "Dhuhr": "12:44",
                 "Asr": "15:50",
-                "Maghrib": "18:23",
+                "Maghrib": "18:22",
                 "Isha": "19:32"
             }
         ]
     },
-    "الفقيه بنصالح": {
-        "HijriMonth": "شعبان",
+    "أزيلال": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:39",
-                "Sunrise": "07:02",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:38",
+                "Sunrise": "06:57",
+                "Dhuhr": "12:45",
+                "Asr": "15:51",
+                "Maghrib": "18:24",
+                "Isha": "19:33"
+            }
+        ]
+    },
+    "الفقيه بنصالح": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:38",
+                "Sunrise": "07:01",
                 "Dhuhr": "12:46",
-                "Asr": "15:50",
+                "Asr": "15:51",
                 "Maghrib": "18:21",
                 "Isha": "19:33"
             }
         ]
     },
     "دمنات": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:40",
-                "Sunrise": "07:00",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:39",
+                "Sunrise": "06:59",
                 "Dhuhr": "12:47",
-                "Asr": "15:52",
-                "Maghrib": "18:25",
-                "Isha": "19:34"
+                "Asr": "15:53",
+                "Maghrib": "18:26",
+                "Isha": "19:35"
             }
         ]
     },
     "القصيبة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "06:57",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "06:56",
                 "Dhuhr": "12:43",
-                "Asr": "15:47",
-                "Maghrib": "18:20",
-                "Isha": "19:30"
-            }
-        ]
-    },
-    "قصبة تادلة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "07:00",
-                "Dhuhr": "12:44",
                 "Asr": "15:48",
-                "Maghrib": "18:19",
+                "Maghrib": "18:20",
                 "Isha": "19:31"
             }
         ]
     },
-    "خريبكة": {
-        "HijriMonth": "شعبان",
+    "قصبة تادلة": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:40",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:47",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "06:59",
+                "Dhuhr": "12:44",
+                "Asr": "15:49",
+                "Maghrib": "18:20",
+                "Isha": "19:32"
+            }
+        ]
+    },
+    "خريبكة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:39",
+                "Sunrise": "07:01",
+                "Dhuhr": "12:46",
                 "Asr": "15:51",
+                "Maghrib": "18:23",
+                "Isha": "19:34"
+            }
+        ]
+    },
+    "وادي زم": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:38",
+                "Sunrise": "07:00",
+                "Dhuhr": "12:45",
+                "Asr": "15:50",
                 "Maghrib": "18:22",
                 "Isha": "19:33"
             }
         ]
     },
-    "وادي زم": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:39",
-                "Sunrise": "07:01",
-                "Dhuhr": "12:45",
-                "Asr": "15:49",
-                "Maghrib": "18:21",
-                "Isha": "19:32"
-            }
-        ]
-    },
     "فاس": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:57",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:56",
                 "Dhuhr": "12:39",
                 "Asr": "15:42",
-                "Maghrib": "18:12",
+                "Maghrib": "18:13",
                 "Isha": "19:26"
             }
         ]
     },
     "صفرو": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:32",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:31",
+                "Sunrise": "06:53",
                 "Dhuhr": "12:38",
+                "Asr": "15:42",
+                "Maghrib": "18:14",
+                "Isha": "19:26"
+            }
+        ]
+    },
+    "مولاي يعقوب": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:57",
+                "Dhuhr": "12:40",
+                "Asr": "15:43",
+                "Maghrib": "18:13",
+                "Isha": "19:27"
+            }
+        ]
+    },
+    "بولمان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:38",
+                "Asr": "15:42",
+                "Maghrib": "18:16",
+                "Isha": "19:25"
+            }
+        ]
+    },
+    "ميسور": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:28",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:35",
+                "Asr": "15:39",
+                "Maghrib": "18:11",
+                "Isha": "19:23"
+            }
+        ]
+    },
+    "رباط الخير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:29",
+                "Sunrise": "06:51",
+                "Dhuhr": "12:36",
+                "Asr": "15:40",
+                "Maghrib": "18:13",
+                "Isha": "19:24"
+            }
+        ]
+    },
+    "المنزل بني يازغة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:52",
+                "Dhuhr": "12:37",
                 "Asr": "15:41",
                 "Maghrib": "18:13",
                 "Isha": "19:25"
             }
         ]
     },
-    "مولاي يعقوب": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:58",
-                "Dhuhr": "12:40",
-                "Asr": "15:42",
-                "Maghrib": "18:12",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "بولمان": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:38",
-                "Asr": "15:41",
-                "Maghrib": "18:15",
-                "Isha": "19:25"
-            }
-        ]
-    },
-    "ميسور": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:29",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:35",
-                "Asr": "15:39",
-                "Maghrib": "18:10",
-                "Isha": "19:22"
-            }
-        ]
-    },
-    "رباط الخير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:30",
-                "Sunrise": "06:52",
-                "Dhuhr": "12:37",
-                "Asr": "15:40",
-                "Maghrib": "18:12",
-                "Isha": "19:23"
-            }
-        ]
-    },
-    "المنزل بني يازغة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:53",
-                "Dhuhr": "12:37",
-                "Asr": "15:40",
-                "Maghrib": "18:12",
-                "Isha": "19:24"
-            }
-        ]
-    },
     "إموزار كندر": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:54",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:53",
                 "Dhuhr": "12:39",
-                "Asr": "15:42",
-                "Maghrib": "18:15",
+                "Asr": "15:43",
+                "Maghrib": "18:16",
                 "Isha": "19:26"
             }
         ]
     },
     "تازة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:29",
-                "Sunrise": "06:52",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:28",
+                "Sunrise": "06:51",
                 "Dhuhr": "12:35",
-                "Asr": "15:37",
-                "Maghrib": "18:09",
+                "Asr": "15:38",
+                "Maghrib": "18:10",
                 "Isha": "19:22"
             }
         ]
     },
     "تاونات": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:37",
                 "Asr": "15:40",
-                "Maghrib": "18:11",
-                "Isha": "19:24"
+                "Maghrib": "18:12",
+                "Isha": "19:25"
             }
         ]
     },
     "أكنول": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:28",
-                "Sunrise": "06:51",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:27",
+                "Sunrise": "06:50",
                 "Dhuhr": "12:34",
-                "Asr": "15:36",
-                "Maghrib": "18:09",
-                "Isha": "19:21"
+                "Asr": "15:37",
+                "Maghrib": "18:10",
+                "Isha": "19:22"
             }
         ]
     },
     "تيزي وسلي": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:28",
-                "Sunrise": "06:50",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:27",
+                "Sunrise": "06:49",
                 "Dhuhr": "12:34",
-                "Asr": "15:36",
+                "Asr": "15:37",
                 "Maghrib": "18:09",
                 "Isha": "19:21"
             }
         ]
     },
     "بورد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:29",
-                "Sunrise": "06:53",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:28",
+                "Sunrise": "06:52",
                 "Dhuhr": "12:35",
-                "Asr": "15:37",
-                "Maghrib": "18:09",
-                "Isha": "19:22"
-            }
-        ]
-    },
-    "تاهلة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:30",
-                "Sunrise": "06:54",
-                "Dhuhr": "12:37",
-                "Asr": "15:39",
+                "Asr": "15:38",
                 "Maghrib": "18:10",
                 "Isha": "19:23"
             }
         ]
     },
-    "تيسة": {
-        "HijriMonth": "شعبان",
+    "تاهلة": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:57",
-                "Dhuhr": "12:38",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:29",
+                "Sunrise": "06:53",
+                "Dhuhr": "12:36",
                 "Asr": "15:40",
-                "Maghrib": "18:10",
+                "Maghrib": "18:11",
                 "Isha": "19:24"
+            }
+        ]
+    },
+    "تيسة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:56",
+                "Dhuhr": "12:38",
+                "Asr": "15:41",
+                "Maghrib": "18:11",
+                "Isha": "19:25"
             }
         ]
     },
     "قرية با محمد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:59",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:58",
                 "Dhuhr": "12:40",
-                "Asr": "15:42",
-                "Maghrib": "18:12",
-                "Isha": "19:26"
+                "Asr": "15:43",
+                "Maghrib": "18:13",
+                "Isha": "19:27"
             }
         ]
     },
     "كتامة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:53",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:52",
                 "Dhuhr": "12:37",
-                "Asr": "15:39",
-                "Maghrib": "18:12",
-                "Isha": "19:24"
+                "Asr": "15:40",
+                "Maghrib": "18:13",
+                "Isha": "19:25"
             }
         ]
     },
     "واد أمليل": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:30",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:29",
+                "Sunrise": "06:53",
                 "Dhuhr": "12:36",
                 "Asr": "15:39",
-                "Maghrib": "18:09",
+                "Maghrib": "18:10",
                 "Isha": "19:23"
             }
         ]
     },
     "مكناس": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:59",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:58",
                 "Dhuhr": "12:41",
-                "Asr": "15:44",
-                "Maghrib": "18:15",
-                "Isha": "19:28"
+                "Asr": "15:45",
+                "Maghrib": "18:16",
+                "Isha": "19:29"
             }
         ]
     },
     "يفرن": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:54",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:53",
                 "Dhuhr": "12:39",
                 "Asr": "15:43",
-                "Maghrib": "18:15",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "الحاجب": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:56",
-                "Dhuhr": "12:40",
-                "Asr": "15:44",
                 "Maghrib": "18:16",
                 "Isha": "19:27"
             }
         ]
     },
-    "زرهون": {
-        "HijriMonth": "شعبان",
+    "الحاجب": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:58",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:55",
+                "Dhuhr": "12:40",
+                "Asr": "15:44",
+                "Maghrib": "18:16",
+                "Isha": "19:28"
+            }
+        ]
+    },
+    "زرهون": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:57",
                 "Dhuhr": "12:41",
                 "Asr": "15:44",
-                "Maghrib": "18:15",
+                "Maghrib": "18:16",
                 "Isha": "19:28"
             }
         ]
     },
     "آزرو": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:40",
-                "Asr": "15:43",
-                "Maghrib": "18:16",
+                "Asr": "15:44",
+                "Maghrib": "18:17",
                 "Isha": "19:27"
             }
         ]
     },
     "مراكش": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:06",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:05",
                 "Dhuhr": "12:51",
-                "Asr": "15:56",
-                "Maghrib": "18:27",
-                "Isha": "19:38"
+                "Asr": "15:57",
+                "Maghrib": "18:28",
+                "Isha": "19:39"
             }
         ]
     },
     "قلعة السراغنة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:42",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:49",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:41",
+                "Sunrise": "07:03",
+                "Dhuhr": "12:48",
                 "Asr": "15:54",
-                "Maghrib": "18:24",
+                "Maghrib": "18:25",
                 "Isha": "19:36"
             }
         ]
     },
     "الصويرة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:51",
-                "Sunrise": "07:15",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:50",
+                "Sunrise": "07:14",
                 "Dhuhr": "12:58",
                 "Asr": "16:04",
-                "Maghrib": "18:32",
-                "Isha": "19:45"
+                "Maghrib": "18:33",
+                "Isha": "19:46"
             }
         ]
     },
     "شيشاوة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:47",
-                "Sunrise": "07:09",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:08",
                 "Dhuhr": "12:54",
-                "Asr": "15:59",
-                "Maghrib": "18:30",
-                "Isha": "19:41"
-            }
-        ]
-    },
-    "بنجرير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:07",
-                "Dhuhr": "12:51",
-                "Asr": "15:56",
-                "Maghrib": "18:26",
-                "Isha": "19:38"
-            }
-        ]
-    },
-    "الرحامنة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:51",
-                "Asr": "15:55",
-                "Maghrib": "18:26",
-                "Isha": "19:38"
-            }
-        ]
-    },
-    "تمنار": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:51",
-                "Sunrise": "07:12",
-                "Dhuhr": "12:58",
-                "Asr": "16:04",
-                "Maghrib": "18:34",
-                "Isha": "19:45"
-            }
-        ]
-    },
-    "آسفي": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
-                "Sunrise": "07:14",
-                "Dhuhr": "12:56",
-                "Asr": "16:01",
-                "Maghrib": "18:30",
-                "Isha": "19:43"
-            }
-        ]
-    },
-    "الوليدية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
-                "Sunrise": "07:13",
-                "Dhuhr": "12:55",
-                "Asr": "15:59",
-                "Maghrib": "18:28",
+                "Asr": "16:00",
+                "Maghrib": "18:31",
                 "Isha": "19:42"
             }
         ]
     },
-    "اليوسفية": {
-        "HijriMonth": "شعبان",
+    "بنجرير": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:46",
-                "Sunrise": "07:09",
-                "Dhuhr": "12:53",
-                "Asr": "15:58",
-                "Maghrib": "18:28",
-                "Isha": "19:40"
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:06",
+                "Dhuhr": "12:51",
+                "Asr": "15:56",
+                "Maghrib": "18:27",
+                "Isha": "19:39"
             }
         ]
     },
-    "تسلطانت": {
-        "HijriMonth": "شعبان",
+    "الرحامنة": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:51",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:05",
+                "Dhuhr": "12:50",
                 "Asr": "15:56",
                 "Maghrib": "18:27",
                 "Isha": "19:38"
             }
         ]
     },
-    "تامصلوحت": {
-        "HijriMonth": "شعبان",
+    "تمنار": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:45",
-                "Sunrise": "07:06",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:50",
+                "Sunrise": "07:12",
+                "Dhuhr": "12:58",
+                "Asr": "16:04",
+                "Maghrib": "18:35",
+                "Isha": "19:46"
+            }
+        ]
+    },
+    "آسفي": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:48",
+                "Sunrise": "07:12",
+                "Dhuhr": "12:56",
+                "Asr": "16:01",
+                "Maghrib": "18:30",
+                "Isha": "19:44"
+            }
+        ]
+    },
+    "الوليدية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:48",
+                "Sunrise": "07:12",
+                "Dhuhr": "12:55",
+                "Asr": "16:00",
+                "Maghrib": "18:29",
+                "Isha": "19:43"
+            }
+        ]
+    },
+    "اليوسفية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:08",
+                "Dhuhr": "12:53",
+                "Asr": "15:58",
+                "Maghrib": "18:29",
+                "Isha": "19:41"
+            }
+        ]
+    },
+    "تسلطانت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:05",
+                "Dhuhr": "12:51",
+                "Asr": "15:57",
+                "Maghrib": "18:28",
+                "Isha": "19:39"
+            }
+        ]
+    },
+    "تامصلوحت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:44",
+                "Sunrise": "07:05",
                 "Dhuhr": "12:51",
                 "Asr": "15:57",
                 "Maghrib": "18:28",
@@ -1955,32 +1955,32 @@
         ]
     },
     "قطارة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:45",
-                "Sunrise": "07:07",
-                "Dhuhr": "12:52",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:44",
+                "Sunrise": "07:06",
+                "Dhuhr": "12:51",
                 "Asr": "15:57",
-                "Maghrib": "18:27",
+                "Maghrib": "18:28",
                 "Isha": "19:39"
             }
         ]
     },
     "أكادير": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:50",
-                "Sunrise": "07:12",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:49",
+                "Sunrise": "07:11",
                 "Dhuhr": "12:57",
                 "Asr": "16:04",
                 "Maghrib": "18:34",
@@ -1989,610 +1989,32 @@
         ]
     },
     "تارودانت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:47",
-                "Sunrise": "07:09",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:08",
                 "Dhuhr": "12:54",
                 "Asr": "16:01",
-                "Maghrib": "18:30",
+                "Maghrib": "18:31",
                 "Isha": "19:42"
             }
         ]
     },
     "تزنيت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:51",
-                "Sunrise": "07:12",
-                "Dhuhr": "12:58",
-                "Asr": "16:05",
-                "Maghrib": "18:35",
-                "Isha": "19:46"
-            }
-        ]
-    },
-    "إغرم": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:46",
-                "Sunrise": "07:03",
-                "Dhuhr": "12:53",
-                "Asr": "16:00",
-                "Maghrib": "18:33",
-                "Isha": "19:40"
-            }
-        ]
-    },
-    "تالوين": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:51",
-                "Asr": "15:57",
-                "Maghrib": "18:29",
-                "Isha": "19:38"
-            }
-        ]
-    },
-    "تافراوت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:48",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:55",
-                "Asr": "16:02",
-                "Maghrib": "18:35",
-                "Isha": "19:43"
-            }
-        ]
-    },
-    "طاطا": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:51",
-                "Asr": "15:58",
-                "Maghrib": "18:29",
-                "Isha": "19:39"
-            }
-        ]
-    },
-    "أقا": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:45",
-                "Sunrise": "07:02",
-                "Dhuhr": "12:52",
-                "Asr": "16:00",
-                "Maghrib": "18:32",
-                "Isha": "19:40"
-            }
-        ]
-    },
-    "فم لحصن": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:47",
-                "Sunrise": "07:06",
-                "Dhuhr": "12:54",
-                "Asr": "16:02",
-                "Maghrib": "18:34",
-                "Isha": "19:42"
-            }
-        ]
-    },
-    "بويكرة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
-                "Sunrise": "07:12",
-                "Dhuhr": "12:56",
-                "Asr": "16:03",
-                "Maghrib": "18:32",
-                "Isha": "19:44"
-            }
-        ]
-    },
-    "أولاد تايمة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:50",
                 "Sunrise": "07:11",
-                "Dhuhr": "12:56",
-                "Asr": "16:02",
-                "Maghrib": "18:32",
-                "Isha": "19:43"
-            }
-        ]
-    },
-    "الرشيدية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:30",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:37",
-                "Asr": "15:42",
-                "Maghrib": "18:13",
-                "Isha": "19:24"
-            }
-        ]
-    },
-    "الريصاني": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:29",
-                "Sunrise": "06:50",
-                "Dhuhr": "12:36",
-                "Asr": "15:42",
-                "Maghrib": "18:13",
-                "Isha": "19:23"
-            }
-        ]
-    },
-    "أرفود": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:29",
-                "Sunrise": "06:50",
-                "Dhuhr": "12:36",
-                "Asr": "15:41",
-                "Maghrib": "18:13",
-                "Isha": "19:23"
-            }
-        ]
-    },
-    "تنديت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:27",
-                "Sunrise": "06:50",
-                "Dhuhr": "12:33",
-                "Asr": "15:37",
-                "Maghrib": "18:08",
-                "Isha": "19:20"
-            }
-        ]
-    },
-    "كلميمة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:32",
-                "Sunrise": "06:53",
-                "Dhuhr": "12:39",
-                "Asr": "15:44",
-                "Maghrib": "18:16",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "إملشيل": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:53",
-                "Dhuhr": "12:41",
-                "Asr": "15:46",
-                "Maghrib": "18:20",
-                "Isha": "19:28"
-            }
-        ]
-    },
-    "تنجداد": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:32",
-                "Sunrise": "06:53",
-                "Dhuhr": "12:39",
-                "Asr": "15:45",
-                "Maghrib": "18:16",
-                "Isha": "19:26"
-            }
-        ]
-    },
-    "الريش": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:30",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:37",
-                "Asr": "15:41",
-                "Maghrib": "18:14",
-                "Isha": "19:24"
-            }
-        ]
-    },
-    "ميدلت": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:52",
-                "Dhuhr": "12:38",
-                "Asr": "15:42",
-                "Maghrib": "18:15",
-                "Isha": "19:25"
-            }
-        ]
-    },
-    "زاكورة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:35",
-                "Sunrise": "06:55",
-                "Dhuhr": "12:42",
-                "Asr": "15:49",
-                "Maghrib": "18:20",
-                "Isha": "19:30"
-            }
-        ]
-    },
-    "ورزازات": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:40",
-                "Sunrise": "06:59",
-                "Dhuhr": "12:47",
-                "Asr": "15:53",
-                "Maghrib": "18:25",
-                "Isha": "19:34"
-            }
-        ]
-    },
-    "تنغير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:54",
-                "Dhuhr": "12:41",
-                "Asr": "15:47",
-                "Maghrib": "18:19",
-                "Isha": "19:28"
-            }
-        ]
-    },
-    "هسكورة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "06:58",
-                "Dhuhr": "12:45",
-                "Asr": "15:51",
-                "Maghrib": "18:23",
-                "Isha": "19:32"
-            }
-        ]
-    },
-    "قلعة مكونة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:37",
-                "Sunrise": "06:56",
-                "Dhuhr": "12:43",
-                "Asr": "15:49",
-                "Maghrib": "18:22",
-                "Isha": "19:31"
-            }
-        ]
-    },
-    "أكدز": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "06:56",
-                "Dhuhr": "12:45",
-                "Asr": "15:51",
-                "Maghrib": "18:24",
-                "Isha": "19:32"
-            }
-        ]
-    },
-    "بومالن دادس": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
-                "Sunrise": "06:55",
-                "Dhuhr": "12:43",
-                "Asr": "15:49",
-                "Maghrib": "18:21",
-                "Isha": "19:30"
-            }
-        ]
-    },
-    "النيف": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:53",
-                "Dhuhr": "12:40",
-                "Asr": "15:46",
-                "Maghrib": "18:17",
-                "Isha": "19:27"
-            }
-        ]
-    },
-    "أسول": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:33",
-                "Sunrise": "06:51",
-                "Dhuhr": "12:40",
-                "Asr": "15:45",
-                "Maghrib": "18:19",
-                "Isha": "19:27"
-            }
-        ]
-    },
-    "أمسمرير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:36",
-                "Sunrise": "06:54",
-                "Dhuhr": "12:42",
-                "Asr": "15:48",
-                "Maghrib": "18:21",
-                "Isha": "19:29"
-            }
-        ]
-    },
-    "تازارين": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:56",
-                "Dhuhr": "12:41",
-                "Asr": "15:47",
-                "Maghrib": "18:18",
-                "Isha": "19:29"
-            }
-        ]
-    },
-    "سيدي إفني": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:53",
-                "Sunrise": "07:13",
-                "Dhuhr": "13:00",
-                "Asr": "16:07",
-                "Maghrib": "18:37",
-                "Isha": "19:47"
-            }
-        ]
-    },
-    "كلميم": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:52",
-                "Sunrise": "07:11",
-                "Dhuhr": "12:59",
-                "Asr": "16:07",
-                "Maghrib": "18:38",
-                "Isha": "19:47"
-            }
-        ]
-    },
-    "أسا": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
-                "Sunrise": "07:10",
-                "Dhuhr": "12:57",
-                "Asr": "16:05",
-                "Maghrib": "18:35",
-                "Isha": "19:45"
-            }
-        ]
-    },
-    "الزاك": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:49",
-                "Sunrise": "07:08",
-                "Dhuhr": "12:56",
-                "Asr": "16:05",
-                "Maghrib": "18:35",
-                "Isha": "19:44"
-            }
-        ]
-    },
-    "طانطان": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:56",
-                "Sunrise": "07:16",
-                "Dhuhr": "13:03",
-                "Asr": "16:12",
-                "Maghrib": "18:42",
-                "Isha": "19:51"
-            }
-        ]
-    },
-    "بويزكارن": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:51",
-                "Sunrise": "07:10",
                 "Dhuhr": "12:58",
                 "Asr": "16:06",
                 "Maghrib": "18:36",
@@ -2600,632 +2022,1210 @@
             }
         ]
     },
-    "المحبس": {
-        "HijriMonth": "شعبان",
+    "إغرم": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:45",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:53",
+                "Asr": "16:00",
+                "Maghrib": "18:34",
+                "Isha": "19:41"
+            }
+        ]
+    },
+    "تالوين": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:01",
+                "Dhuhr": "12:51",
+                "Asr": "15:58",
+                "Maghrib": "18:30",
+                "Isha": "19:39"
+            }
+        ]
+    },
+    "تافراوت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:47",
-                "Sunrise": "07:06",
+                "Sunrise": "07:05",
+                "Dhuhr": "12:55",
+                "Asr": "16:03",
+                "Maghrib": "18:35",
+                "Isha": "19:43"
+            }
+        ]
+    },
+    "طاطا": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:03",
+                "Dhuhr": "12:51",
+                "Asr": "15:59",
+                "Maghrib": "18:30",
+                "Isha": "19:39"
+            }
+        ]
+    },
+    "أقا": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:44",
+                "Sunrise": "07:02",
+                "Dhuhr": "12:52",
+                "Asr": "16:00",
+                "Maghrib": "18:33",
+                "Isha": "19:40"
+            }
+        ]
+    },
+    "فم لحصن": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:46",
+                "Sunrise": "07:05",
+                "Dhuhr": "12:54",
+                "Asr": "16:03",
+                "Maghrib": "18:35",
+                "Isha": "19:43"
+            }
+        ]
+    },
+    "بويكرة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:49",
+                "Sunrise": "07:11",
+                "Dhuhr": "12:56",
+                "Asr": "16:04",
+                "Maghrib": "18:33",
+                "Isha": "19:45"
+            }
+        ]
+    },
+    "أولاد تايمة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:48",
+                "Sunrise": "07:10",
+                "Dhuhr": "12:56",
+                "Asr": "16:03",
+                "Maghrib": "18:33",
+                "Isha": "19:44"
+            }
+        ]
+    },
+    "الرشيدية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:29",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:37",
+                "Asr": "15:42",
+                "Maghrib": "18:14",
+                "Isha": "19:25"
+            }
+        ]
+    },
+    "الريصاني": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:28",
+                "Sunrise": "06:49",
+                "Dhuhr": "12:36",
+                "Asr": "15:42",
+                "Maghrib": "18:14",
+                "Isha": "19:24"
+            }
+        ]
+    },
+    "أرفود": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:28",
+                "Sunrise": "06:49",
+                "Dhuhr": "12:36",
+                "Asr": "15:42",
+                "Maghrib": "18:14",
+                "Isha": "19:24"
+            }
+        ]
+    },
+    "تنديت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:26",
+                "Sunrise": "06:49",
+                "Dhuhr": "12:33",
+                "Asr": "15:37",
+                "Maghrib": "18:09",
+                "Isha": "19:21"
+            }
+        ]
+    },
+    "كلميمة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:31",
+                "Sunrise": "06:52",
+                "Dhuhr": "12:39",
+                "Asr": "15:45",
+                "Maghrib": "18:16",
+                "Isha": "19:27"
+            }
+        ]
+    },
+    "إملشيل": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:34",
+                "Sunrise": "06:52",
+                "Dhuhr": "12:41",
+                "Asr": "15:47",
+                "Maghrib": "18:20",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "تنجداد": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:31",
+                "Sunrise": "06:52",
+                "Dhuhr": "12:39",
+                "Asr": "15:45",
+                "Maghrib": "18:17",
+                "Isha": "19:27"
+            }
+        ]
+    },
+    "الريش": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:29",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:37",
+                "Asr": "15:42",
+                "Maghrib": "18:15",
+                "Isha": "19:25"
+            }
+        ]
+    },
+    "ميدلت": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:51",
+                "Dhuhr": "12:38",
+                "Asr": "15:43",
+                "Maghrib": "18:16",
+                "Isha": "19:26"
+            }
+        ]
+    },
+    "زاكورة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "06:54",
+                "Dhuhr": "12:42",
+                "Asr": "15:50",
+                "Maghrib": "18:21",
+                "Isha": "19:31"
+            }
+        ]
+    },
+    "ورزازات": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:39",
+                "Sunrise": "06:58",
+                "Dhuhr": "12:47",
+                "Asr": "15:53",
+                "Maghrib": "18:25",
+                "Isha": "19:35"
+            }
+        ]
+    },
+    "تنغير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:53",
+                "Dhuhr": "12:41",
+                "Asr": "15:47",
+                "Maghrib": "18:20",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "هسكورة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "06:57",
+                "Dhuhr": "12:45",
+                "Asr": "15:52",
+                "Maghrib": "18:24",
+                "Isha": "19:33"
+            }
+        ]
+    },
+    "قلعة مكونة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:36",
+                "Sunrise": "06:55",
+                "Dhuhr": "12:43",
+                "Asr": "15:50",
+                "Maghrib": "18:23",
+                "Isha": "19:32"
+            }
+        ]
+    },
+    "أكدز": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "06:56",
+                "Dhuhr": "12:45",
+                "Asr": "15:52",
+                "Maghrib": "18:24",
+                "Isha": "19:33"
+            }
+        ]
+    },
+    "بومالن دادس": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "06:54",
+                "Dhuhr": "12:43",
+                "Asr": "15:49",
+                "Maghrib": "18:22",
+                "Isha": "19:31"
+            }
+        ]
+    },
+    "النيف": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:52",
+                "Dhuhr": "12:40",
+                "Asr": "15:46",
+                "Maghrib": "18:18",
+                "Isha": "19:28"
+            }
+        ]
+    },
+    "أسول": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:32",
+                "Sunrise": "06:50",
+                "Dhuhr": "12:40",
+                "Asr": "15:45",
+                "Maghrib": "18:20",
+                "Isha": "19:27"
+            }
+        ]
+    },
+    "أمسمرير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:35",
+                "Sunrise": "06:53",
+                "Dhuhr": "12:42",
+                "Asr": "15:48",
+                "Maghrib": "18:22",
+                "Isha": "19:30"
+            }
+        ]
+    },
+    "تازارين": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:55",
+                "Dhuhr": "12:41",
+                "Asr": "15:48",
+                "Maghrib": "18:19",
+                "Isha": "19:29"
+            }
+        ]
+    },
+    "سيدي إفني": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:52",
+                "Sunrise": "07:12",
+                "Dhuhr": "13:00",
+                "Asr": "16:08",
+                "Maghrib": "18:38",
+                "Isha": "19:48"
+            }
+        ]
+    },
+    "كلميم": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:51",
+                "Sunrise": "07:10",
+                "Dhuhr": "12:59",
+                "Asr": "16:08",
+                "Maghrib": "18:39",
+                "Isha": "19:48"
+            }
+        ]
+    },
+    "أسا": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:49",
+                "Sunrise": "07:09",
+                "Dhuhr": "12:57",
+                "Asr": "16:06",
+                "Maghrib": "18:36",
+                "Isha": "19:45"
+            }
+        ]
+    },
+    "الزاك": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:48",
+                "Sunrise": "07:07",
+                "Dhuhr": "12:56",
+                "Asr": "16:05",
+                "Maghrib": "18:36",
+                "Isha": "19:45"
+            }
+        ]
+    },
+    "طانطان": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:55",
+                "Sunrise": "07:15",
+                "Dhuhr": "13:03",
+                "Asr": "16:12",
+                "Maghrib": "18:42",
+                "Isha": "19:52"
+            }
+        ]
+    },
+    "بويزكارن": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:50",
+                "Sunrise": "07:09",
+                "Dhuhr": "12:58",
+                "Asr": "16:06",
+                "Maghrib": "18:37",
+                "Isha": "19:46"
+            }
+        ]
+    },
+    "المحبس": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:47",
+                "Sunrise": "07:05",
                 "Dhuhr": "12:55",
                 "Asr": "16:05",
-                "Maghrib": "18:35",
+                "Maghrib": "18:36",
                 "Isha": "19:44"
             }
         ]
     },
     "لمسيد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:55",
-                "Sunrise": "07:14",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:54",
+                "Sunrise": "07:13",
                 "Dhuhr": "13:02",
                 "Asr": "16:11",
                 "Maghrib": "18:42",
-                "Isha": "19:50"
+                "Isha": "19:51"
             }
         ]
     },
     "العيون": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:04",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:03",
                 "Sunrise": "07:24",
                 "Dhuhr": "13:12",
-                "Asr": "16:21",
-                "Maghrib": "18:50",
-                "Isha": "20:00"
+                "Asr": "16:22",
+                "Maghrib": "18:51",
+                "Isha": "20:01"
             }
         ]
     },
     "السمارة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:58",
-                "Sunrise": "07:17",
-                "Dhuhr": "13:06",
-                "Asr": "16:16",
-                "Maghrib": "18:46",
-                "Isha": "19:54"
-            }
-        ]
-    },
-    "بوجدور": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:09",
-                "Sunrise": "07:29",
-                "Dhuhr": "13:17",
-                "Asr": "16:27",
-                "Maghrib": "18:57",
-                "Isha": "20:06"
-            }
-        ]
-    },
-    "طرفاية": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:03",
-                "Sunrise": "07:24",
-                "Dhuhr": "13:11",
-                "Asr": "16:20",
-                "Maghrib": "18:49",
-                "Isha": "19:59"
-            }
-        ]
-    },
-    "تفاريتي": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:53",
-                "Sunrise": "07:10",
-                "Dhuhr": "13:01",
-                "Asr": "16:12",
-                "Maghrib": "18:43",
-                "Isha": "19:50"
-            }
-        ]
-    },
-    "بوكراع": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:02",
-                "Sunrise": "07:21",
-                "Dhuhr": "13:10",
-                "Asr": "16:20",
-                "Maghrib": "18:51",
-                "Isha": "19:59"
-            }
-        ]
-    },
-    "كلتة زمور": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:00",
-                "Sunrise": "07:18",
-                "Dhuhr": "13:08",
-                "Asr": "16:20",
-                "Maghrib": "18:50",
-                "Isha": "19:58"
-            }
-        ]
-    },
-    "أمكالة": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:57",
-                "Sunrise": "07:15",
-                "Dhuhr": "13:04",
-                "Asr": "16:15",
-                "Maghrib": "18:45",
-                "Isha": "19:53"
-            }
-        ]
-    },
-    "أخفنير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:00",
-                "Sunrise": "07:20",
-                "Dhuhr": "13:07",
+                "Sunrise": "07:16",
+                "Dhuhr": "13:06",
                 "Asr": "16:16",
                 "Maghrib": "18:46",
                 "Isha": "19:55"
             }
         ]
     },
-    "الداخلة": {
-        "HijriMonth": "شعبان",
+    "بوجدور": {
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:14",
-                "Sunrise": "07:32",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:08",
+                "Sunrise": "07:28",
+                "Dhuhr": "13:17",
+                "Asr": "16:28",
+                "Maghrib": "18:57",
+                "Isha": "20:06"
+            }
+        ]
+    },
+    "طرفاية": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:02",
+                "Sunrise": "07:23",
+                "Dhuhr": "13:11",
+                "Asr": "16:20",
+                "Maghrib": "18:49",
+                "Isha": "20:00"
+            }
+        ]
+    },
+    "تفاريتي": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:52",
+                "Sunrise": "07:09",
+                "Dhuhr": "13:01",
+                "Asr": "16:12",
+                "Maghrib": "18:44",
+                "Isha": "19:51"
+            }
+        ]
+    },
+    "بوكراع": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:02",
+                "Sunrise": "07:20",
+                "Dhuhr": "13:10",
+                "Asr": "16:21",
+                "Maghrib": "18:51",
+                "Isha": "20:00"
+            }
+        ]
+    },
+    "كلتة زمور": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:59",
+                "Sunrise": "07:17",
+                "Dhuhr": "13:08",
+                "Asr": "16:20",
+                "Maghrib": "18:51",
+                "Isha": "19:58"
+            }
+        ]
+    },
+    "أمكالة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:56",
+                "Sunrise": "07:14",
+                "Dhuhr": "13:04",
+                "Asr": "16:15",
+                "Maghrib": "18:46",
+                "Isha": "19:54"
+            }
+        ]
+    },
+    "أخفنير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:59",
+                "Sunrise": "07:19",
+                "Dhuhr": "13:07",
+                "Asr": "16:16",
+                "Maghrib": "18:47",
+                "Isha": "19:56"
+            }
+        ]
+    },
+    "الداخلة": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:13",
+                "Sunrise": "07:31",
                 "Dhuhr": "13:23",
                 "Asr": "16:35",
-                "Maghrib": "19:05",
+                "Maghrib": "19:06",
                 "Isha": "20:13"
             }
         ]
     },
     "الكويرة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "06:17",
-                "Sunrise": "07:34",
+                "Sunrise": "07:33",
                 "Dhuhr": "13:27",
                 "Asr": "16:41",
                 "Maghrib": "19:12",
-                "Isha": "20:18"
+                "Isha": "20:19"
             }
         ]
     },
     "أوسرد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "06:07",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "06:06",
                 "Sunrise": "07:23",
                 "Dhuhr": "13:16",
                 "Asr": "16:29",
-                "Maghrib": "19:00",
-                "Isha": "20:06"
+                "Maghrib": "19:01",
+                "Isha": "20:07"
             }
         ]
     },
     "بئر كندوز": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "06:15",
-                "Sunrise": "07:31",
+                "Sunrise": "07:30",
                 "Dhuhr": "13:25",
                 "Asr": "16:38",
                 "Maghrib": "19:10",
-                "Isha": "20:15"
+                "Isha": "20:16"
             }
         ]
     },
     "بئر أنزاران": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "06:08",
-                "Sunrise": "07:25",
+                "Sunrise": "07:24",
                 "Dhuhr": "13:17",
                 "Asr": "16:29",
-                "Maghrib": "19:00",
+                "Maghrib": "19:01",
                 "Isha": "20:07"
             }
         ]
     },
     "خميس سيدي عبد الجليل": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:37",
                 "Asr": "15:40",
-                "Maghrib": "18:11",
-                "Isha": "19:24"
+                "Maghrib": "18:12",
+                "Isha": "19:25"
             }
         ]
     },
     "أولاد عياد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:56",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:55",
                 "Dhuhr": "12:37",
-                "Asr": "15:40",
-                "Maghrib": "18:10",
-                "Isha": "19:24"
+                "Asr": "15:41",
+                "Maghrib": "18:11",
+                "Isha": "19:25"
             }
         ]
     },
     "مطماطة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:31",
-                "Sunrise": "06:57",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:30",
+                "Sunrise": "06:56",
                 "Dhuhr": "12:37",
                 "Asr": "15:40",
-                "Maghrib": "18:09",
-                "Isha": "19:24"
+                "Maghrib": "18:10",
+                "Isha": "19:25"
             }
         ]
     },
     "إيمنتانوت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:48",
-                "Sunrise": "07:08",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:47",
+                "Sunrise": "07:07",
                 "Dhuhr": "12:54",
-                "Asr": "16:00",
+                "Asr": "16:01",
                 "Maghrib": "18:32",
                 "Isha": "19:42"
             }
         ]
     },
     "سيدي غانم": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:50",
-                "Sunrise": "07:10",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:49",
+                "Sunrise": "07:09",
                 "Dhuhr": "12:57",
-                "Asr": "16:02",
-                "Maghrib": "18:34",
-                "Isha": "19:44"
+                "Asr": "16:03",
+                "Maghrib": "18:35",
+                "Isha": "19:45"
             }
         ]
     },
     "تفنتان": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:42",
-                "Sunrise": "07:04",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:41",
+                "Sunrise": "07:03",
                 "Dhuhr": "12:49",
                 "Asr": "15:55",
-                "Maghrib": "18:25",
-                "Isha": "19:36"
+                "Maghrib": "18:26",
+                "Isha": "19:37"
             }
         ]
     },
     "آيت القاق": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:01",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:00",
                 "Dhuhr": "12:50",
                 "Asr": "15:56",
                 "Maghrib": "18:30",
-                "Isha": "19:37"
+                "Isha": "19:38"
             }
         ]
     },
     "أكدال أملشيل": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:53",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:52",
                 "Dhuhr": "12:41",
                 "Asr": "15:46",
-                "Maghrib": "18:19",
-                "Isha": "19:28"
+                "Maghrib": "18:20",
+                "Isha": "19:29"
             }
         ]
     },
     "اكودال املشيل ميدلت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:34",
-                "Sunrise": "06:55",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:33",
+                "Sunrise": "06:54",
                 "Dhuhr": "12:41",
                 "Asr": "15:46",
-                "Maghrib": "18:18",
-                "Isha": "19:28"
+                "Maghrib": "18:19",
+                "Isha": "19:29"
             }
         ]
     },
     "أكايوار": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:43",
-                "Sunrise": "07:03",
+                "Sunrise": "07:02",
                 "Dhuhr": "12:50",
                 "Asr": "15:56",
-                "Maghrib": "18:28",
-                "Isha": "19:37"
+                "Maghrib": "18:29",
+                "Isha": "19:38"
             }
         ]
     },
     "عين العودة": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:40",
-                "Sunrise": "07:05",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:39",
+                "Sunrise": "07:04",
                 "Dhuhr": "12:46",
-                "Asr": "15:49",
-                "Maghrib": "18:18",
-                "Isha": "19:33"
+                "Asr": "15:50",
+                "Maghrib": "18:19",
+                "Isha": "19:34"
             }
         ]
     },
     "أسكين": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:03",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:02",
                 "Dhuhr": "12:50",
+                "Asr": "15:56",
+                "Maghrib": "18:28",
+                "Isha": "19:38"
+            }
+        ]
+    },
+    "آيت ورير": {
+        "HijriMonth": "رمضان",
+        "PrayerTimes": [
+            {
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:03",
+                "Dhuhr": "12:49",
                 "Asr": "15:56",
                 "Maghrib": "18:27",
                 "Isha": "19:37"
             }
         ]
     },
-    "آيت ورير": {
-        "HijriMonth": "شعبان",
-        "PrayerTimes": [
-            {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:04",
-                "Dhuhr": "12:49",
-                "Asr": "15:55",
-                "Maghrib": "18:26",
-                "Isha": "19:37"
-            }
-        ]
-    },
     "زاوية مولاي ابراهيم": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:04",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:03",
                 "Dhuhr": "12:51",
                 "Asr": "15:57",
-                "Maghrib": "18:28",
-                "Isha": "19:38"
+                "Maghrib": "18:29",
+                "Isha": "19:39"
             }
         ]
     },
     "تولكولت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:48",
-                "Sunrise": "07:08",
+                "Sunrise": "07:07",
                 "Dhuhr": "12:55",
-                "Asr": "16:01",
-                "Maghrib": "18:33",
-                "Isha": "19:42"
+                "Asr": "16:02",
+                "Maghrib": "18:34",
+                "Isha": "19:43"
             }
         ]
     },
     "إيكس": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:44",
-                "Sunrise": "07:01",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:43",
+                "Sunrise": "07:00",
                 "Dhuhr": "12:50",
-                "Asr": "15:56",
-                "Maghrib": "18:30",
+                "Asr": "15:57",
+                "Maghrib": "18:31",
                 "Isha": "19:38"
             }
         ]
     },
     "كرس": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:43",
-                "Sunrise": "07:01",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:42",
+                "Sunrise": "07:00",
                 "Dhuhr": "12:49",
                 "Asr": "15:55",
-                "Maghrib": "18:28",
+                "Maghrib": "18:29",
                 "Isha": "19:37"
             }
         ]
     },
     "تيسنت": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:41",
-                "Sunrise": "06:59",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:40",
+                "Sunrise": "06:58",
                 "Dhuhr": "12:48",
-                "Asr": "15:55",
+                "Asr": "15:56",
                 "Maghrib": "18:28",
                 "Isha": "19:36"
             }
         ]
     },
     "فم زكيد": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:39",
-                "Sunrise": "06:58",
+                "Sunrise": "06:57",
                 "Dhuhr": "12:46",
-                "Asr": "15:53",
+                "Asr": "15:54",
                 "Maghrib": "18:26",
-                "Isha": "19:34"
+                "Isha": "19:35"
             }
         ]
     },
     "قصر إيش": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
                 "Fajr": "05:16",
-                "Sunrise": "06:37",
+                "Sunrise": "06:36",
                 "Dhuhr": "12:23",
-                "Asr": "15:27",
-                "Maghrib": "17:59",
-                "Isha": "19:10"
+                "Asr": "15:28",
+                "Maghrib": "18:00",
+                "Isha": "19:11"
             }
         ]
     },
     "إيمين ثلاث": {
-        "HijriMonth": "شعبان",
+        "HijriMonth": "رمضان",
         "PrayerTimes": [
             {
-                "day_ar": "الأربعاء",
-                "day_fr": "Mercredi",
-                "hijri_day": "29",
-                "gregorian_day": "18 Février 2026",
-                "Fajr": "05:38",
-                "Sunrise": "06:59",
+                "day_ar": "الخميس",
+                "day_fr": "Jeudi",
+                "hijri_day": "1",
+                "gregorian_day": "19 Février 2026",
+                "Fajr": "05:37",
+                "Sunrise": "06:58",
                 "Dhuhr": "12:45",
-                "Asr": "15:50",
-                "Maghrib": "18:22",
-                "Isha": "19:32"
+                "Asr": "15:51",
+                "Maghrib": "18:23",
+                "Isha": "19:33"
             }
         ]
     }
